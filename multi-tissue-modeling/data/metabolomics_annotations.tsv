@@ -1,0 +1,869 @@
+,CHEMICAL_NAME,SUPER_PATHWAY,SUB_PATHWAY
+0,mevalonate,Lipid,Mevalonate Metabolism
+1,S-1-pyrroline-5-carboxylate,Amino Acid,Glutamate Metabolism
+2,putrescine,Amino Acid,Polyamine Metabolism
+3,spermidine,Amino Acid,Polyamine Metabolism
+4,1-methylnicotinamide,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+5,"12,13-DiHOME",Lipid,"Fatty Acid, Dihydroxy"
+6,5-hydroxyindoleacetate,Amino Acid,Tryptophan Metabolism
+7,2-oxoadipate,Amino Acid,Lysine Metabolism
+8,alpha-ketoglutarate,Energy,TCA Cycle
+9,kynurenate,Amino Acid,Tryptophan Metabolism
+10,3-hydroxyisobutyrate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+11,3-hydroxy-3-methylglutarate,Lipid,Mevalonate Metabolism
+12,3-phosphoglycerate,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+13,cholate,Lipid,Primary Bile Acid Metabolism
+14,4-hydroxyphenylacetate,Amino Acid,Phenylalanine Metabolism
+15,hypoxanthine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+16,guanine,Nucleotide,"Purine Metabolism, Guanine containing"
+17,"9,10-DiHOME",Lipid,"Fatty Acid, Dihydroxy"
+18,linoleate (18:2n6),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+19,laurate (12:0),Lipid,Medium Chain Fatty Acid
+20,quinolinate,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+21,"N6,N6,N6-trimethyllysine",Amino Acid,Lysine Metabolism
+22,N-acetylputrescine,Amino Acid,Polyamine Metabolism
+23,N-formylmethionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+24,S-adenosylhomocysteine (SAH),Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+25,glycolate (hydroxyacetate),Xenobiotics,Chemical
+26,adenosine 5'-monophosphate (AMP),Nucleotide,"Purine Metabolism, Adenine containing"
+27,5-methylthioadenosine (MTA),Amino Acid,Polyamine Metabolism
+28,allantoic acid,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+29,ribose 1-phosphate,Carbohydrate,Pentose Phosphate Pathway
+30,arachidonate (20:4n6),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+31,arginine,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+32,argininosuccinate,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+33,ascorbate (Vitamin C),Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+34,aspartate,Amino Acid,Alanine and Aspartate Metabolism
+35,3-(4-hydroxyphenyl)lactate,Amino Acid,Tyrosine Metabolism
+36,phenylpyruvate,Amino Acid,Phenylalanine Metabolism
+37,beta-alanine,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+38,carnosine,Amino Acid,Histidine Metabolism
+39,biliverdin,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism
+40,succinate,Energy,TCA Cycle
+41,3-hydroxybutyrate (BHBA),Lipid,Ketone Bodies
+42,cholesterol,Lipid,Sterol
+43,choline phosphate,Lipid,Phospholipid Metabolism
+44,corticosterone,Lipid,Corticosteroids
+45,creatinine,Amino Acid,Creatine Metabolism
+46,cystine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+47,cytidine 5'-monophosphate (5'-CMP),Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+48,ribulose 5-phosphate,Carbohydrate,Pentose Phosphate Pathway
+49,sphingosine,Lipid,Sphingosines
+50,deoxycholate,Lipid,Secondary Bile Acid Metabolism
+51,dihydroxyacetone phosphate (DHAP),Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+52,cystathionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+53,sphinganine,Lipid,Sphingolipid Synthesis
+54,flavin adenine dinucleotide (FAD),Cofactors and Vitamins,Riboflavin Metabolism
+55,fumarate,Energy,TCA Cycle
+56,gamma-glutamylglutamate,Peptide,Gamma-glutamyl Amino Acid
+57,gluconate,Xenobiotics,Food Component/Plant
+58,glutarate (C5-DC),Lipid,"Fatty Acid, Dicarboxylate"
+59,glycine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+60,glycocholate,Lipid,Primary Bile Acid Metabolism
+61,guanidinoacetate,Amino Acid,Creatine Metabolism
+62,guanosine 5'-monophosphate (5'-GMP),Nucleotide,"Purine Metabolism, Guanine containing"
+63,histamine,Amino Acid,Histidine Metabolism
+64,histidine,Amino Acid,Histidine Metabolism
+65,hypotaurine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+66,inosine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+67,myo-inositol,Lipid,Inositol Metabolism
+68,isoleucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+69,2-aminoadipate,Amino Acid,Lysine Metabolism
+70,citrulline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+71,leucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+72,lysine,Amino Acid,Lysine Metabolism
+73,malate,Energy,TCA Cycle
+74,methionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+75,methylmalonate (MMA),Lipid,Fatty Acid Metabolism (also BCAA Metabolism)
+76,palmitate (16:0),Lipid,Long Chain Saturated Fatty Acid
+77,nicotinamide,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+78,pelargonate (9:0),Lipid,Medium Chain Fatty Acid
+79,stearate (18:0),Lipid,Long Chain Saturated Fatty Acid
+80,ornithine,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+81,orotate,Nucleotide,"Pyrimidine Metabolism, Orotate containing"
+82,"glutathione, oxidized (GSSG)",Amino Acid,Glutathione Metabolism
+83,palmitoleate (16:1n7),Lipid,Long Chain Monounsaturated Fatty Acid
+84,phenylalanine,Amino Acid,Phenylalanine Metabolism
+85,phosphate,Energy,Oxidative Phosphorylation
+86,phosphoenolpyruvate (PEP),Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+87,proline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+88,lactate,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+89,pyridoxal,Cofactors and Vitamins,Vitamin B6 Metabolism
+90,"glutathione, reduced (GSH)",Amino Acid,Glutathione Metabolism
+91,retinol (Vitamin A),Cofactors and Vitamins,Vitamin A Metabolism
+92,riboflavin (Vitamin B2),Cofactors and Vitamins,Riboflavin Metabolism
+93,salicylate,Xenobiotics,Drug - Topical Agents
+94,serine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+95,serotonin,Amino Acid,Tryptophan Metabolism
+96,spermine,Amino Acid,Polyamine Metabolism
+97,taurine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+98,myristate (14:0),Lipid,Long Chain Saturated Fatty Acid
+99,urea,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+100,uridine,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+101,2'-deoxyuridine,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+102,trans-urocanate,Amino Acid,Histidine Metabolism
+103,glutamate,Amino Acid,Glutamate Metabolism
+104,glutamine,Amino Acid,Glutamate Metabolism
+105,threonine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+106,tryptophan,Amino Acid,Tryptophan Metabolism
+107,valine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+108,nicotinate,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+109,pyridoxamine,Cofactors and Vitamins,Vitamin B6 Metabolism
+110,glucose,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+111,adenosine,Nucleotide,"Purine Metabolism, Adenine containing"
+112,betaine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+113,cysteine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+114,mannose,Carbohydrate,"Fructose, Mannose and Galactose Metabolism"
+115,dimethylglycine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+116,alanine,Amino Acid,Alanine and Aspartate Metabolism
+117,tyrosine,Amino Acid,Tyrosine Metabolism
+118,malonate,Lipid,Fatty Acid Synthesis
+119,pseudouridine,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+120,pyruvate,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+121,uracil,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+122,cytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+123,arabinose,Carbohydrate,Pentose Metabolism
+124,thymidine,Nucleotide,"Pyrimidine Metabolism, Thymine containing"
+125,thiamin (Vitamin B1),Cofactors and Vitamins,Thiamine Metabolism
+126,fructose,Carbohydrate,"Fructose, Mannose and Galactose Metabolism"
+127,adenine,Nucleotide,"Purine Metabolism, Adenine containing"
+128,cytosine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+129,thymine,Nucleotide,"Pyrimidine Metabolism, Thymine containing"
+130,caprate (10:0),Lipid,Medium Chain Fatty Acid
+131,undecanoate (11:0),Lipid,Medium Chain Fatty Acid
+132,margarate (17:0),Lipid,Long Chain Saturated Fatty Acid
+133,nonadecanoate (19:0),Lipid,Long Chain Saturated Fatty Acid
+134,arachidate (20:0),Lipid,Long Chain Saturated Fatty Acid
+135,ribose,Carbohydrate,Pentose Metabolism
+136,asparagine,Amino Acid,Alanine and Aspartate Metabolism
+137,heptanoate (7:0),Lipid,Medium Chain Fatty Acid
+138,caproate (6:0),Lipid,Medium Chain Fatty Acid
+139,caprylate (8:0),Lipid,Medium Chain Fatty Acid
+140,sucrose,Carbohydrate,Disaccharides and Oligosaccharides
+141,pentadecanoate (15:0),Lipid,Long Chain Saturated Fatty Acid
+142,trans-4-hydroxyproline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+143,allantoin,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+144,xanthine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+145,5-oxoproline,Amino Acid,Glutathione Metabolism
+146,picolinate,Amino Acid,Tryptophan Metabolism
+147,sarcosine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+148,pantothenate,Cofactors and Vitamins,Pantothenate and CoA Metabolism
+149,pipecolate,Amino Acid,Lysine Metabolism
+150,phosphoethanolamine,Lipid,Phospholipid Metabolism
+151,glycerate,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+152,3-ureidopropionate,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+153,N-acetylleucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+154,N-acetylmethionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+155,N-acetylvaline,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+156,erucate (22:1n9),Lipid,Long Chain Monounsaturated Fatty Acid
+157,"bilirubin (Z,Z)",Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism
+158,thyroxine,Amino Acid,Tyrosine Metabolism
+159,guanosine,Nucleotide,"Purine Metabolism, Guanine containing"
+160,gamma-glutamyltyrosine,Peptide,Gamma-glutamyl Amino Acid
+161,methyl indole-3-acetate,Xenobiotics,Food Component/Plant
+162,alpha-tocopherol,Cofactors and Vitamins,Tocopherol Metabolism
+163,N-carbamoylaspartate,Nucleotide,"Pyrimidine Metabolism, Orotate containing"
+164,N-acetylalanine,Amino Acid,Alanine and Aspartate Metabolism
+165,3-aminoisobutyrate,Nucleotide,"Pyrimidine Metabolism, Thymine containing"
+166,chenodeoxycholate,Lipid,Primary Bile Acid Metabolism
+167,citrate,Energy,TCA Cycle
+168,2-aminobutyrate,Amino Acid,Glutathione Metabolism
+169,urate,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+170,ursodeoxycholate,Lipid,Secondary Bile Acid Metabolism
+171,oleoyl ethanolamide,Lipid,Endocannabinoid
+172,gamma-glutamylglutamine,Peptide,Gamma-glutamyl Amino Acid
+173,4-hydroxyphenylpyruvate,Amino Acid,Tyrosine Metabolism
+174,butyrate/isobutyrate (4:0),Lipid,Short Chain Fatty Acid
+175,tigloylglycine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+176,N-acetylneuraminate,Carbohydrate,Aminosugar Metabolism
+177,isocitrate,Energy,TCA Cycle
+178,acetylphosphate,Energy,Oxidative Phosphorylation
+179,N-acetyl-glucosamine 1-phosphate,Carbohydrate,Aminosugar Metabolism
+180,N-acetylglucosamine 6-phosphate,Carbohydrate,Aminosugar Metabolism
+181,N-acetylglucosaminylasparagine,Carbohydrate,Aminosugar Metabolism
+182,creatine,Amino Acid,Creatine Metabolism
+183,"2,3-diphosphoglycerate",Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+184,gamma-glutamylhistidine,Peptide,Gamma-glutamyl Amino Acid
+185,2-hydroxystearate,Lipid,"Fatty Acid, Monohydroxy"
+186,N1-methyladenosine,Nucleotide,"Purine Metabolism, Adenine containing"
+187,glycerol,Lipid,Glycerolipid Metabolism
+188,choline,Lipid,Phospholipid Metabolism
+189,anthranilate,Amino Acid,Tryptophan Metabolism
+190,12-HHTrE,Lipid,Eicosanoid
+191,gamma-glutamylleucine,Peptide,Gamma-glutamyl Amino Acid
+192,thromboxane B2,Lipid,Eicosanoid
+193,nicotinamide ribonucleotide (NMN),Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+194,3-methoxytyrosine,Amino Acid,Tyrosine Metabolism
+195,palmitoyl ethanolamide,Lipid,Endocannabinoid
+196,N-palmitoyl-sphingosine (d18:1/16:0),Lipid,Ceramides
+197,1-palmitoyl-2-oleoyl-GPE (16:0/18:1),Lipid,Phosphatidylethanolamine (PE)
+198,1-palmitoyl-2-linoleoyl-GPI (16:0/18:2),Lipid,Phosphatidylinositol (PI)
+199,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2),Lipid,Phosphatidylcholine (PC)
+200,stearoyl sphingomyelin (d18:1/18:0),Lipid,Sphingomyelins
+201,1-palmitoyl-2-oleoyl-GPC (16:0/18:1),Lipid,Phosphatidylcholine (PC)
+202,N-stearoyl-sphingosine (d18:1/18:0)*,Lipid,Ceramides
+203,biopterin,Cofactors and Vitamins,Tetrahydrobiopterin Metabolism
+204,taurochenodeoxycholate,Lipid,Primary Bile Acid Metabolism
+205,taurocholate,Lipid,Primary Bile Acid Metabolism
+206,taurodeoxycholate,Lipid,Secondary Bile Acid Metabolism
+207,2-hydroxyhippurate (salicylurate),Xenobiotics,Benzoate Metabolism
+208,azelate (C9-DC),Lipid,"Fatty Acid, Dicarboxylate"
+209,eicosapentaenoate (EPA; 20:5n3),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+210,methylsuccinate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+211,tricarballylate,Energy,TCA Cycle
+212,ethylmalonate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+213,carnitine,Lipid,Carnitine Metabolism
+214,3-phenylpropionate (hydrocinnamate),Xenobiotics,Benzoate Metabolism
+215,hippurate,Xenobiotics,Benzoate Metabolism
+216,xanthurenate,Amino Acid,Tryptophan Metabolism
+217,suberate (C8-DC),Lipid,"Fatty Acid, Dicarboxylate"
+218,3-methyl-2-oxovalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+219,methionine sulfoxide,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+220,3-methylhistidine,Amino Acid,Histidine Metabolism
+221,anserine,Amino Acid,Histidine Metabolism
+222,5-hydroxylysine,Amino Acid,Lysine Metabolism
+223,2-ketogulonate,Carbohydrate,"Fructose, Mannose and Galactose Metabolism"
+224,4-guanidinobutanoate,Amino Acid,Guanidino and Acetamido Metabolism
+225,creatine phosphate,Amino Acid,Creatine Metabolism
+226,2'-deoxycytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+227,flavin mononucleotide (FMN),Cofactors and Vitamins,Riboflavin Metabolism
+228,glucuronate,Carbohydrate,Aminosugar Metabolism
+229,glycerol 3-phosphate,Lipid,Glycerolipid Metabolism
+230,imidazole lactate,Amino Acid,Histidine Metabolism
+231,kynurenine,Amino Acid,Tryptophan Metabolism
+232,glycerophosphorylcholine (GPC),Lipid,Phospholipid Metabolism
+233,N-acetylglutamate,Amino Acid,Glutamate Metabolism
+234,N-alpha-acetylornithine,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+235,tartarate,Xenobiotics,Food Component/Plant
+236,xanthosine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+237,ribitol,Carbohydrate,Pentose Metabolism
+238,5-aminovalerate,Amino Acid,Lysine Metabolism
+239,itaconate,Energy,TCA Cycle
+240,indolelactate,Amino Acid,Tryptophan Metabolism
+241,3-indoxyl sulfate,Amino Acid,Tryptophan Metabolism
+242,glycylvaline,Peptide,Dipeptide
+243,gamma-glutamylphenylalanine,Peptide,Gamma-glutamyl Amino Acid
+244,4-methyl-2-oxopentanoate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+245,"1,5-anhydroglucitol (1,5-AG)",Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"
+246,2-arachidonoylglycerol (20:4),Lipid,Monoacylglycerol
+247,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4),Lipid,Phosphatidylinositol (PI)
+248,sphingosine 1-phosphate,Lipid,Sphingosines
+249,1-oleoyl-GPS (18:1),Lipid,Lysophospholipid
+250,1-stearoyl-GPI (18:0),Lipid,Lysophospholipid
+251,"1,2-dipalmitoyl-GPC (16:0/16:0)",Lipid,Phosphatidylcholine (PC)
+252,docosahexaenoate (DHA; 22:6n3),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+253,1-myristoyl-2-palmitoyl-GPC (14:0/16:0),Lipid,Phosphatidylcholine (PC)
+254,alpha-hydroxyisocaproate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+255,isovalerate (i5:0),Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+256,2-hydroxyoctanoate,Lipid,"Fatty Acid, Monohydroxy"
+257,5-methylcytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+258,3-hydroxyoctanoate,Lipid,"Fatty Acid, Monohydroxy"
+259,phenyllactate (PLA),Amino Acid,Phenylalanine Metabolism
+260,palmitoylcarnitine (C16),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"
+261,hyodeoxycholate,Lipid,Secondary Bile Acid Metabolism
+262,hexanoylcarnitine (C6),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)"
+263,N-acetylaspartate (NAA),Amino Acid,Alanine and Aspartate Metabolism
+264,indoleacrylate,Amino Acid,Tryptophan Metabolism
+265,acetylcarnitine (C2),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Short Chain)"
+266,cysteine s-sulfate,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+267,1-palmitoylglycerol (16:0),Lipid,Monoacylglycerol
+268,tartronate (hydroxymalonate),Xenobiotics,Food Component/Plant
+269,oxalate (ethanedioate),Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+270,erythritol,Xenobiotics,Food Component/Plant
+271,trizma acetate,Xenobiotics,Chemical
+272,adipate (C6-DC),Lipid,"Fatty Acid, Dicarboxylate"
+273,3-hydroxymyristate,Lipid,"Fatty Acid, Monohydroxy"
+274,1-oleoylglycerol (18:1),Lipid,Monoacylglycerol
+275,3-methyl-2-oxobutyrate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+276,2-oleoylglycerol (18:1),Lipid,Monoacylglycerol
+277,homocitrulline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+278,3-hydroxypalmitate,Lipid,"Fatty Acid, Monohydroxy"
+279,2-linoleoylglycerol (18:2),Lipid,Monoacylglycerol
+280,3-hydroxydecanoate,Lipid,"Fatty Acid, Monohydroxy"
+281,N-acetylglycine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+282,ribonate,Carbohydrate,Pentose Metabolism
+283,threonate,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+284,galactonate,Carbohydrate,"Fructose, Mannose and Galactose Metabolism"
+285,beta-sitosterol,Lipid,Sterol
+286,indoleacetate,Amino Acid,Tryptophan Metabolism
+287,1-linoleoylglycerol (18:2),Lipid,Monoacylglycerol
+288,2-palmitoylglycerol (16:0),Lipid,Monoacylglycerol
+289,1-methylhistidine,Amino Acid,Histidine Metabolism
+290,butyrylcarnitine (C4),Lipid,Fatty Acid Metabolism (also BCAA Metabolism)
+291,isobutyrylcarnitine (C4),Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+292,3-dehydrocholate,Lipid,Secondary Bile Acid Metabolism
+293,7-ketodeoxycholate,Lipid,Secondary Bile Acid Metabolism
+294,beta-muricholate,Lipid,Primary Bile Acid Metabolism
+295,indolepropionate,Amino Acid,Tryptophan Metabolism
+296,trigonelline (N'-methylnicotinate),Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+297,dodecanedioate (C12-DC),Lipid,"Fatty Acid, Dicarboxylate"
+298,N-acetyltyrosine,Amino Acid,Tyrosine Metabolism
+299,3-hydroxylaurate,Lipid,"Fatty Acid, Monohydroxy"
+300,pyridoxate,Cofactors and Vitamins,Vitamin B6 Metabolism
+301,gamma-glutamylvaline,Peptide,Gamma-glutamyl Amino Acid
+302,5-hydroxyhexanoate,Lipid,"Fatty Acid, Monohydroxy"
+303,3-methylcrotonylglycine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+304,propionylglycine,Lipid,Fatty Acid Metabolism (also BCAA Metabolism)
+305,butyrylglycine,Lipid,Fatty Acid Metabolism (also BCAA Metabolism)
+306,2-hydroxyadipate,Lipid,"Fatty Acid, Dicarboxylate"
+307,2-methylbutyrylglycine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+308,propionylcarnitine (C3),Lipid,Fatty Acid Metabolism (also BCAA Metabolism)
+309,pro-hydroxy-pro,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+310,3-hydroxy-2-ethylpropionate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+311,docosapentaenoate (n3 DPA; 22:5n3),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+312,docosadienoate (22:2n6),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+313,adrenate (22:4n6),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+314,10-undecenoate (11:1n1),Lipid,Medium Chain Fatty Acid
+315,myristoleate (14:1n5),Lipid,Long Chain Monounsaturated Fatty Acid
+316,1-methylhistamine,Amino Acid,Histidine Metabolism
+317,4-imidazoleacetate,Amino Acid,Histidine Metabolism
+318,1-methyl-4-imidazoleacetate,Amino Acid,Histidine Metabolism
+319,sebacate (C10-DC),Lipid,"Fatty Acid, Dicarboxylate"
+320,daidzein,Xenobiotics,Food Component/Plant
+321,genistein,Xenobiotics,Food Component/Plant
+322,glycitein,Xenobiotics,Food Component/Plant
+323,stearidonate (18:4n3),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+324,5-dodecenoate (12:1n7),Lipid,Medium Chain Fatty Acid
+325,octanoylcarnitine (C8),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)"
+326,tauro-beta-muricholate,Lipid,Primary Bile Acid Metabolism
+327,decanoylcarnitine (C10),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)"
+328,N-acetylglutamine,Amino Acid,Glutamate Metabolism
+329,N-acetyltryptophan,Amino Acid,Tryptophan Metabolism
+330,N-acetylphenylalanine,Amino Acid,Phenylalanine Metabolism
+331,N-acetylasparagine,Amino Acid,Alanine and Aspartate Metabolism
+332,S-methylglutathione,Amino Acid,Glutathione Metabolism
+333,gamma-glutamyl-epsilon-lysine,Peptide,Gamma-glutamyl Amino Acid
+334,1-palmitoyl-GPC (16:0),Lipid,Lysophospholipid
+335,N-acetylarginine,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+336,campesterol,Lipid,Sterol
+337,myristoylcarnitine (C14),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"
+338,1-stearoyl-GPC (18:0),Lipid,Lysophospholipid
+339,1-oleoyl-GPC (18:1),Lipid,Lysophospholipid
+340,N-acetylthreonine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+341,phenylacetylglycine,Peptide,Acetylated Peptides
+342,N-acetylisoleucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+343,10-nonadecenoate (19:1n9),Lipid,Long Chain Monounsaturated Fatty Acid
+344,10-heptadecenoate (17:1n7),Lipid,Long Chain Monounsaturated Fatty Acid
+345,hyocholate,Lipid,Secondary Bile Acid Metabolism
+346,alpha-muricholate,Lipid,Primary Bile Acid Metabolism
+347,"bradykinin, des-arg(9)",Peptide,Polypeptide
+348,N-acetylhistidine,Amino Acid,Histidine Metabolism
+349,gamma-glutamylglycine,Peptide,Gamma-glutamyl Amino Acid
+350,gamma-glutamyltryptophan,Peptide,Gamma-glutamyl Amino Acid
+351,stachydrine,Xenobiotics,Food Component/Plant
+352,alpha-hydroxyisovalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+353,nicotinamide riboside,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+354,ophthalmate,Amino Acid,Glutathione Metabolism
+355,gamma-glutamylmethionine,Peptide,Gamma-glutamyl Amino Acid
+356,gamma-glutamylthreonine,Peptide,Gamma-glutamyl Amino Acid
+357,p-cresol sulfate,Xenobiotics,Benzoate Metabolism
+358,nicotinate ribonucleoside,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+359,erythronate*,Carbohydrate,Aminosugar Metabolism
+360,N-acetylproline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+361,eicosenoate (20:1),Lipid,Long Chain Monounsaturated Fatty Acid
+362,linolenate [alpha or gamma; (18:3n3 or 6)],Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+363,aconitate [cis or trans],Energy,TCA Cycle
+364,heme,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism
+365,stearoylcarnitine (C18),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"
+366,laurylcarnitine (C12),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)"
+367,isovalerylcarnitine (C5),Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+368,1-linoleoyl-GPC (18:2),Lipid,Lysophospholipid
+369,N1-methylinosine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing"
+370,"N2,N2-dimethylguanosine",Nucleotide,"Purine Metabolism, Guanine containing"
+371,N4-acetylcytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+372,N6-carbamoylthreonyladenosine,Nucleotide,"Purine Metabolism, Adenine containing"
+373,orotidine,Nucleotide,"Pyrimidine Metabolism, Orotate containing"
+374,phenylacetylglutamine,Peptide,Acetylated Peptides
+375,taurocyamine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+376,4-hydroxyhippurate,Xenobiotics,Benzoate Metabolism
+377,"5,6-dihydrouridine",Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+378,1-pentadecanoylglycerol (15:0),Lipid,Monoacylglycerol
+379,1-arachidonylglycerol (20:4),Lipid,Monoacylglycerol
+380,1-linolenoylglycerol (18:3),Lipid,Monoacylglycerol
+381,3-ketosphinganine,Lipid,Sphingolipid Synthesis
+382,cysteine-glutathione disulfide,Amino Acid,Glutathione Metabolism
+383,1-palmitoyl-GPA (16:0),Lipid,Lysophospholipid
+384,5-methyluridine (ribothymidine),Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+385,valerylglycine,Lipid,Fatty Acid Metabolism (Acyl Glycine)
+386,isovalerylglycine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+387,3-hydroxydodecanedioate*,Lipid,"Fatty Acid, Dicarboxylate"
+388,7-methylguanine,Nucleotide,"Purine Metabolism, Guanine containing"
+389,1-stearoyl-GPE (18:0),Lipid,Lysophospholipid
+390,1-stearoyl-GPG (18:0),Lipid,Lysophospholipid
+391,3-methylcytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+392,N1-Methyl-2-pyridone-5-carboxamide,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+393,mead acid (20:3n9),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+394,1-docosahexaenoylglycerol (22:6),Lipid,Monoacylglycerol
+395,1-dihomo-linoleoylglycerol (20:2),Lipid,Monoacylglycerol
+396,gamma-glutamylisoleucine*,Peptide,Gamma-glutamyl Amino Acid
+397,N-glycolylneuraminate,Carbohydrate,Aminosugar Metabolism
+398,oleoylcarnitine (C18:1),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"
+399,gamma-glutamyl-2-aminobutyrate,Peptide,Gamma-glutamyl Amino Acid
+400,dihydrobiopterin,Cofactors and Vitamins,Tetrahydrobiopterin Metabolism
+401,4-hydroxybutyrate (GHB),Lipid,"Fatty Acid, Monohydroxy"
+402,2-methylbutyrylcarnitine (C5),Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+403,phenol sulfate,Amino Acid,Tyrosine Metabolism
+404,1-palmitoleoyl-GPC (16:1)*,Lipid,Lysophospholipid
+405,malonylcarnitine,Lipid,Fatty Acid Synthesis
+406,hexanoylglycine,Lipid,Fatty Acid Metabolism (Acyl Glycine)
+407,glutamine_degradant*,Partially Characterized Molecules,Partially Characterized Molecules
+408,2-hydroxy-3-methylvalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+409,1-arachidonoyl-GPC (20:4n6)*,Lipid,Lysophospholipid
+410,2-palmitoleoyl-GPC (16:1)*,Lipid,Lysophospholipid
+411,2-palmitoyl-GPC (16:0)*,Lipid,Lysophospholipid
+412,1-palmitoyl-GPE (16:0),Lipid,Lysophospholipid
+413,1-oleoyl-GPE (18:1),Lipid,Lysophospholipid
+414,1-linoleoyl-GPE (18:2)*,Lipid,Lysophospholipid
+415,1-arachidonoyl-GPE (20:4n6)*,Lipid,Lysophospholipid
+416,N-acetylcitrulline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+417,2-hydroxypalmitate,Lipid,"Fatty Acid, Monohydroxy"
+418,docosapentaenoate (n6 DPA; 22:5n6),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+419,gulonate*,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+420,isobutyrylglycine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+421,phenylpropionylglycine,Xenobiotics,Benzoate Metabolism
+422,glutarylcarnitine (C5-DC),Amino Acid,Lysine Metabolism
+423,beta-hydroxyisovaleroylcarnitine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+424,catechol sulfate,Xenobiotics,Benzoate Metabolism
+425,cholesterol sulfate,Lipid,Sterol
+426,7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca),Lipid,Sterol
+427,N-acetyl-aspartyl-glutamate (NAAG),Amino Acid,Glutamate Metabolism
+428,tetradecanedioate (C14-DC),Lipid,"Fatty Acid, Dicarboxylate"
+429,hexadecanedioate (C16-DC),Lipid,"Fatty Acid, Dicarboxylate"
+430,octadecanedioate (C18-DC),Lipid,"Fatty Acid, Dicarboxylate"
+431,undecanedioate (C11-DC),Lipid,"Fatty Acid, Dicarboxylate"
+432,1-myristoylglycerol (14:0),Lipid,Monoacylglycerol
+433,glycerophosphoglycerol,Lipid,Glycerolipid Metabolism
+434,glycerophosphoethanolamine,Lipid,Phospholipid Metabolism
+435,glycerophosphoinositol*,Lipid,Phospholipid Metabolism
+436,6-beta-hydroxylithocholate,Lipid,Secondary Bile Acid Metabolism
+437,1-arachidonoyl-GPI (20:4)*,Lipid,Lysophospholipid
+438,1-palmitoyl-GPI (16:0),Lipid,Lysophospholipid
+439,deoxycarnitine,Lipid,Carnitine Metabolism
+440,N6-succinyladenosine,Nucleotide,"Purine Metabolism, Adenine containing"
+441,1-ribosyl-imidazoleacetate*,Amino Acid,Histidine Metabolism
+442,1-oleoyl-GPA (18:1),Lipid,Lysophospholipid
+443,4-hydroxycinnamate,Xenobiotics,Food Component/Plant
+444,N2-acetyllysine,Amino Acid,Lysine Metabolism
+445,equol,Xenobiotics,Food Component/Plant
+446,"3,4-dihydroxybutyrate",Lipid,"Fatty Acid, Dihydroxy"
+447,N6-acetyllysine,Amino Acid,Lysine Metabolism
+448,dihomo-linolenate (20:3n3 or n6),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+449,mannitol/sorbitol,Carbohydrate,"Fructose, Mannose and Galactose Metabolism"
+450,4-vinylphenol sulfate,Xenobiotics,Benzoate Metabolism
+451,4-ethylphenylsulfate,Xenobiotics,Benzoate Metabolism
+452,N6-carboxymethyllysine,Carbohydrate,Advanced Glycation End-product
+453,N6-carboxyethyllysine,Amino Acid,Lysine Metabolism
+454,1-oleoyl-GPI (18:1),Lipid,Lysophospholipid
+455,1-linoleoyl-GPI (18:2)*,Lipid,Lysophospholipid
+456,2-amino-p-cresol sulfate,Xenobiotics,Benzoate Metabolism
+457,methylphosphate,Nucleotide,Purine and Pyrimidine Metabolism
+458,o-cresol sulfate,Xenobiotics,Benzoate Metabolism
+459,dimethylarginine (SDMA + ADMA),Amino Acid,Urea cycle; Arginine and Proline Metabolism
+460,dihydrokaempferol,Xenobiotics,Food Component/Plant
+461,gamma-glutamylalanine,Peptide,Gamma-glutamyl Amino Acid
+462,N-acetylserine,Amino Acid,"Glycine, Serine and Threonine Metabolism"
+463,1-stearoyl-2-oleoyl-GPE (18:0/18:1),Lipid,Phosphatidylethanolamine (PE)
+464,N-arachidoyl-sphingosine (d18:1/20:0)*,Lipid,Ceramides
+465,4-allylphenol sulfate,Xenobiotics,Food Component/Plant
+466,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),Lipid,Phosphatidylcholine (PC)
+467,1-palmitoyl-2-linoleoyl-GPE (16:0/18:2),Lipid,Phosphatidylethanolamine (PE)
+468,1-stearoyl-2-arachidonoyl-GPS (18:0/20:4),Lipid,Phosphatidylserine (PS)
+469,sphinganine-1-phosphate,Lipid,Sphingolipid Synthesis
+470,glycosyl-N-stearoyl-sphingosine (d18:1/18:0),Lipid,Hexosylceramides (HCER)
+471,succinylcarnitine (C4-DC),Energy,TCA Cycle
+472,"bilirubin (E,E)*",Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism
+473,N-methylproline,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+474,xylulose 5-phosphate,Carbohydrate,Pentose Phosphate Pathway
+475,2-hydroxyglutarate,Lipid,"Fatty Acid, Dicarboxylate"
+476,N-acetyl-beta-alanine,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+477,5-methylthioribose**,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+478,"sphingomyelin (d18:1/18:1, d18:2/18:0)",Lipid,Sphingomyelins
+479,palmitoyl sphingomyelin (d18:1/16:0),Lipid,Sphingomyelins
+480,5-HETE,Lipid,Eicosanoid
+481,ergothioneine,Xenobiotics,Food Component/Plant
+482,12-HEPE,Lipid,Eicosanoid
+483,12-HETE,Lipid,Eicosanoid
+484,indole-3-carboxylate,Amino Acid,Tryptophan Metabolism
+485,13-HODE + 9-HODE,Lipid,"Fatty Acid, Monohydroxy"
+486,N-acetyl-3-methylhistidine*,Amino Acid,Histidine Metabolism
+487,4-cholesten-3-one,Lipid,Sterol
+488,cinnamoylglycine,Xenobiotics,Food Component/Plant
+489,stearoyl ethanolamide,Lipid,Endocannabinoid
+490,cis-4-decenoylcarnitine (C10:1),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"
+491,"2S,3R-dihydroxybutyrate",Lipid,"Fatty Acid, Dihydroxy"
+492,5-methyl-2'-deoxycytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+493,S-carboxymethyl-L-cysteine,Xenobiotics,Drug - Other
+494,(12 or 13)-methylmyristate (a15:0 or i15:0),Lipid,"Fatty Acid, Branched"
+495,(16 or 17)-methylstearate (a19:0 or i19:0),Lipid,"Fatty Acid, Branched"
+496,"2R,3R-dihydroxybutyrate",Lipid,"Fatty Acid, Dihydroxy"
+497,salicin (salicyl alcohol glucoside),Xenobiotics,Food Component/Plant
+498,2-hydroxyquinoline,Xenobiotics,Food Component/Plant
+499,"2,3-dihydroxyisovalerate",Xenobiotics,Food Component/Plant
+500,3-methylglutaconate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+501,5-(galactosylhydroxy)-L-lysine,Amino Acid,Lysine Metabolism
+502,cysteinylglycine disulfide*,Amino Acid,Glutathione Metabolism
+503,formiminoglutamate,Amino Acid,Histidine Metabolism
+504,sulfate*,Xenobiotics,Chemical
+505,sedoheptulose,Carbohydrate,Pentose Metabolism
+506,S-methylcysteine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+507,nicotinamide N-oxide,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism
+508,argininate*,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+509,2-oxoarginine*,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+510,1-lignoceroyl-GPC (24:0),Lipid,Lysophospholipid
+511,1-(1-enyl-palmitoyl)-GPC (P-16:0)*,Lipid,Lysoplasmalogen
+512,1-methyl-5-imidazoleacetate,Amino Acid,Histidine Metabolism
+513,tauroursodeoxycholate,Lipid,Secondary Bile Acid Metabolism
+514,ursocholate,Lipid,Secondary Bile Acid Metabolism
+515,S-methylcysteine sulfoxide,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+516,(14 or 15)-methylpalmitate (a17:0 or i17:0),Lipid,"Fatty Acid, Branched"
+517,eicosanedioate (C20-DC),Lipid,"Fatty Acid, Dicarboxylate"
+518,docosadioate (C22-DC),Lipid,"Fatty Acid, Dicarboxylate"
+519,16-hydroxypalmitate,Lipid,"Fatty Acid, Monohydroxy"
+520,oleoyl-linoleoyl-glycerol (18:1/18:2) [1],Lipid,Diacylglycerol
+521,oleoyl-linoleoyl-glycerol (18:1/18:2) [2],Lipid,Diacylglycerol
+522,1-(1-enyl-palmitoyl)-GPE (P-16:0)*,Lipid,Lysoplasmalogen
+523,1-(1-enyl-stearoyl)-GPE (P-18:0)*,Lipid,Lysoplasmalogen
+524,N-oleoyltaurine,Lipid,Endocannabinoid
+525,linoleoylcarnitine (C18:2)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)"
+526,N-methyl-GABA,Amino Acid,Glutamate Metabolism
+527,isoleucylglycine,Peptide,Dipeptide
+528,N-palmitoyltaurine,Lipid,Endocannabinoid
+529,N-stearoyltaurine,Lipid,Endocannabinoid
+530,2-O-methylascorbic acid,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+531,carboxyethyl-GABA,Amino Acid,Glutamate Metabolism
+532,hydroxymethylpyrimidine,Cofactors and Vitamins,Thiamine Metabolism
+533,trimethylamine N-oxide,Lipid,Phospholipid Metabolism
+534,N6-methyllysine,Amino Acid,Lysine Metabolism
+535,equol sulfate,Xenobiotics,Food Component/Plant
+536,imidazole propionate,Amino Acid,Histidine Metabolism
+537,prolylglycine,Peptide,Dipeptide
+538,N-palmitoylglycine,Lipid,Fatty Acid Metabolism (Acyl Glycine)
+539,mannonate*,Xenobiotics,Food Component/Plant
+540,taurohyodeoxycholic acid,Lipid,Secondary Bile Acid Metabolism
+541,2-stearoyl-GPE (18:0)*,Lipid,Lysophospholipid
+542,(R)-3-hydroxybutyrylcarnitine,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"
+543,N-octanoylglycine,Lipid,Fatty Acid Metabolism (Acyl Glycine)
+544,N-acetylcarnosine,Amino Acid,Histidine Metabolism
+545,margaroylcarnitine (C17)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"
+546,tauro-alpha-muricholate,Lipid,Primary Bile Acid Metabolism
+547,retinal,Cofactors and Vitamins,Vitamin A Metabolism
+548,2-hydroxydecanoate,Lipid,"Fatty Acid, Monohydroxy"
+549,4-methylcatechol sulfate,Xenobiotics,Benzoate Metabolism
+550,heptanoyl glycine,Lipid,Fatty Acid Metabolism (Acyl Glycine)
+551,"2,8-quinolinediol",Xenobiotics,Food Component/Plant
+552,2-aminooctanoate,Lipid,"Fatty Acid, Amino"
+553,tridecanedioate (C13-DC),Lipid,"Fatty Acid, Dicarboxylate"
+554,N-acetyl-1-methylhistidine*,Amino Acid,Histidine Metabolism
+555,indolin-2-one,Xenobiotics,Food Component/Plant
+556,"2,8-quinolinediol sulfate",Xenobiotics,Food Component/Plant
+557,1-stearoyl-GPS (18:0)*,Lipid,Lysophospholipid
+558,"sphingomyelin (d18:1/14:0, d16:1/16:0)*",Lipid,Sphingomyelins
+559,"sphingomyelin (d18:2/16:0, d18:1/16:1)*",Lipid,Sphingomyelins
+560,3-hydroxyadipate,Lipid,"Fatty Acid, Dicarboxylate"
+561,1-arachidonoyl-GPA (20:4),Lipid,Lysophospholipid
+562,6-oxopiperidine-2-carboxylate,Amino Acid,Lysine Metabolism
+563,N-delta-acetylornithine,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+564,2-aminoheptanoate,Lipid,"Fatty Acid, Amino"
+565,benzoylcarnitine*,Xenobiotics,Chemical
+566,N-formylanthranilic acid,Amino Acid,Tryptophan Metabolism
+567,S-(3-hydroxypropyl)mercapturic acid (HPMA),Xenobiotics,Chemical
+568,"N2,N5-diacetylornithine",Amino Acid,Urea cycle; Arginine and Proline Metabolism
+569,methionine sulfone,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+570,1-linolenoyl-GPC (18:3)*,Lipid,Lysophospholipid
+571,1-(1-enyl-oleoyl)-GPE (P-18:1)*,Lipid,Lysoplasmalogen
+572,fructosyllysine,Amino Acid,Lysine Metabolism
+573,O-sulfo-L-tyrosine,Xenobiotics,Chemical
+574,ferulic acid 4-sulfate,Xenobiotics,Food Component/Plant
+575,3-(3-hydroxyphenyl)propionate sulfate,Xenobiotics,Benzoate Metabolism
+576,N-acetylmethionine sulfoxide,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+577,N-acetyltaurine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+578,1-oleoyl-GPG (18:1)*,Lipid,Lysophospholipid
+579,1-palmitoyl-GPG (16:0)*,Lipid,Lysophospholipid
+580,1-palmitoyl-GPS (16:0)*,Lipid,Lysophospholipid
+581,N-linoleoyltaurine*,Lipid,Endocannabinoid
+582,N-palmitoleoyltaurine*,Lipid,Endocannabinoid
+583,9-hydroxystearate,Lipid,"Fatty Acid, Monohydroxy"
+584,10-hydroxystearate,Lipid,"Fatty Acid, Monohydroxy"
+585,"sphingomyelin (d18:2/14:0, d18:1/14:1)*",Lipid,Sphingomyelins
+586,"sphingomyelin (d18:1/24:1, d18:2/24:0)*",Lipid,Sphingomyelins
+587,octadecenedioylcarnitine (C18:1-DC)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)"
+588,octadecanedioylcarnitine (C18-DC)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)"
+589,7-hydroxycholesterol (alpha or beta),Lipid,Sterol
+590,myristoleoylcarnitine (C14:1)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"
+591,N-formylphenylalanine,Amino Acid,Tyrosine Metabolism
+592,4-hydroxychlorothalonil,Xenobiotics,Chemical
+593,4-hydroxycinnamate sulfate,Amino Acid,Tyrosine Metabolism
+594,arabonate/xylonate,Carbohydrate,Pentose Metabolism
+595,N-acetylpyrraline,Xenobiotics,Food Component/Plant
+596,1-dihomo-linolenylglycerol (20:3),Lipid,Monoacylglycerol
+597,N-acetylhistamine,Amino Acid,Histidine Metabolism
+598,"N2,N6-diacetyllysine",Amino Acid,Lysine Metabolism
+599,"3,4-dihydroxyphenylacetate sulfate",Amino Acid,Tyrosine Metabolism
+600,6-hydroxyindole sulfate,Xenobiotics,Chemical
+601,"sphingomyelin (d18:1/20:0, d16:1/22:0)*",Lipid,Sphingomyelins
+602,"sphingomyelin (d18:1/20:1, d18:2/20:0)*",Lipid,Sphingomyelins
+603,"sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)*",Lipid,Sphingomyelins
+604,behenoyl sphingomyelin (d18:1/22:0)*,Lipid,Sphingomyelins
+605,"sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*",Lipid,Sphingomyelins
+606,"sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*",Lipid,Sphingomyelins
+607,lignoceroyl sphingomyelin (d18:1/24:0),Lipid,Sphingomyelins
+608,"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*",Lipid,Sphingomyelins
+609,2-docosahexaenoylglycerol (22:6)*,Lipid,Monoacylglycerol
+610,3-hydroxyhexanoate,Lipid,"Fatty Acid, Monohydroxy"
+611,N-carbamoylalanine,Amino Acid,Alanine and Aspartate Metabolism
+612,3beta-hydroxy-5-cholestenoate,Lipid,Sterol
+613,N-acetylkynurenine (2),Amino Acid,Tryptophan Metabolism
+614,C-glycosyltryptophan,Amino Acid,Tryptophan Metabolism
+615,arabitol/xylitol,Carbohydrate,Pentose Metabolism
+616,N-acetylglucosamine/N-acetylgalactosamine,Carbohydrate,Aminosugar Metabolism
+617,adipoylcarnitine (C6-DC),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)"
+618,suberoylcarnitine (C8-DC),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)"
+619,4-hydroxyphenylacetate sulfate,Amino Acid,Tyrosine Metabolism
+620,phenol glucuronide,Amino Acid,Tyrosine Metabolism
+621,linoleoyl ethanolamide,Lipid,Endocannabinoid
+622,indoleacetylglycine,Amino Acid,Tryptophan Metabolism
+623,"1,2-dilinoleoyl-GPC (18:2/18:2)",Lipid,Phosphatidylcholine (PC)
+624,1-stearoyl-2-oleoyl-GPC (18:0/18:1),Lipid,Phosphatidylcholine (PC)
+625,"1,2-dioleoyl-GPC (18:1/18:1)",Lipid,Phosphatidylcholine (PC)
+626,"1,2-dioleoyl-GPE (18:1/18:1)",Lipid,Phosphatidylethanolamine (PE)
+627,1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4n6),Lipid,Phosphatidylcholine (PC)
+628,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6),Lipid,Phosphatidylcholine (PC)
+629,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),Lipid,Phosphatidylcholine (PC)
+630,1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1),Lipid,Plasmalogen
+631,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)",Lipid,Sphingomyelins
+632,1-palmitoyl-2-stearoyl-GPC (16:0/18:0),Lipid,Phosphatidylcholine (PC)
+633,2-hydroxybutyrate/2-hydroxyisobutyrate,Amino Acid,Glutathione Metabolism
+634,2-methylcitrate/homocitrate,Energy,TCA Cycle
+635,oleate/vaccenate (18:1),Lipid,Long Chain Monounsaturated Fatty Acid
+636,indoxyl glucuronide,Amino Acid,Tryptophan Metabolism
+637,phenylacetyltaurine,Peptide,Acetylated Peptides
+638,3-hydroxystearate,Lipid,"Fatty Acid, Monohydroxy"
+639,2-hydroxylaurate,Lipid,"Fatty Acid, Monohydroxy"
+640,1-palmitoleoylglycerol (16:1)*,Lipid,Monoacylglycerol
+641,2-palmitoleoylglycerol (16:1)*,Lipid,Monoacylglycerol
+642,palmitoyl dihydrosphingomyelin (d18:0/16:0)*,Lipid,Dihydrosphingomyelins
+643,tricosanoyl sphingomyelin (d18:1/23:0)*,Lipid,Sphingomyelins
+644,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*",Lipid,Sphingomyelins
+645,"sphingomyelin (d18:2/24:1, d18:1/24:2)*",Lipid,Sphingomyelins
+646,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*,Lipid,Phosphatidylethanolamine (PE)
+647,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),Lipid,Phosphatidylethanolamine (PE)
+648,1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*,Lipid,Phosphatidylcholine (PC)
+649,1-oleoyl-2-linoleoyl-GPC (18:1/18:2)*,Lipid,Phosphatidylcholine (PC)
+650,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*,Lipid,Phosphatidylcholine (PC)
+651,1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*,Lipid,Phosphatidylcholine (PC)
+652,1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*,Lipid,Phosphatidylethanolamine (PE)
+653,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*,Lipid,Phosphatidylethanolamine (PE)
+654,1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*,Lipid,Phosphatidylinositol (PI)
+655,gamma-tocopherol/beta-tocopherol,Cofactors and Vitamins,Tocopherol Metabolism
+656,1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*,Lipid,Plasmalogen
+657,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*,Lipid,Plasmalogen
+658,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*,Lipid,Plasmalogen
+659,1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*,Lipid,Plasmalogen
+660,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*,Lipid,Plasmalogen
+661,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*,Lipid,Plasmalogen
+662,"sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*",Lipid,Sphingomyelins
+663,behenoyl dihydrosphingomyelin (d18:0/22:0)*,Lipid,Dihydrosphingomyelins
+664,"sphingomyelin (d18:0/18:0, d19:0/17:0)*",Lipid,Dihydrosphingomyelins
+665,N-palmitoyl-sphinganine (d18:0/16:0),Lipid,Dihydroceramides
+666,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0),Lipid,Lactosylceramides (LCER)
+667,myristoyl dihydrosphingomyelin (d18:0/14:0)*,Lipid,Dihydrosphingomyelins
+668,(3'-5')-guanylyluridine,Nucleotide,Dinucleotide
+669,(3'-5')-adenylyluridine,Nucleotide,Dinucleotide
+670,(3'-5')-adenylylcytidine,Nucleotide,Dinucleotide
+671,(3'-5')-guanylylcytidine,Nucleotide,Dinucleotide
+672,1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*,Lipid,Phosphatidylinositol (PI)
+673,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*,Lipid,Plasmalogen
+674,1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*,Lipid,Phosphatidylcholine (PC)
+675,1-oleoyl-2-linoleoyl-GPE (18:1/18:2)*,Lipid,Phosphatidylethanolamine (PE)
+676,1-linoleoyl-GPA (18:2)*,Lipid,Lysophospholipid
+677,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6)*,Lipid,Phosphatidylcholine (PC)
+678,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*,Lipid,Phosphatidylcholine (PC)
+679,1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*,Lipid,Phosphatidylcholine (PC)
+680,1-palmitoyl-2-gamma-linolenoyl-GPC (16:0/18:3n6)*,Lipid,Phosphatidylcholine (PC)
+681,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*,Lipid,Plasmalogen
+682,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*,Lipid,Plasmalogen
+683,"1,2-dipalmitoyl-GPE (16:0/16:0)*",Lipid,Phosphatidylethanolamine (PE)
+684,1-palmitoyl-2-stearoyl-GPE (16:0/18:0)*,Lipid,Phosphatidylethanolamine (PE)
+685,1-oleoyl-2-arachidonoyl-GPE (18:1/20:4)*,Lipid,Phosphatidylethanolamine (PE)
+686,1-oleoyl-2-docosahexaenoyl-GPE (18:1/22:6)*,Lipid,Phosphatidylethanolamine (PE)
+687,1-linoleoyl-2-arachidonoyl-GPE (18:2/20:4)*,Lipid,Phosphatidylethanolamine (PE)
+688,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*,Lipid,Plasmalogen
+689,1-linoleoyl-GPG (18:2)*,Lipid,Lysophospholipid
+690,gamma-glutamylserine,Peptide,Gamma-glutamyl Amino Acid
+691,thioproline,Xenobiotics,Chemical
+692,palmitoylcholine,Lipid,Fatty Acid Metabolism (Acyl Choline)
+693,isocitric lactone,Energy,TCA Cycle
+694,(S)-3-hydroxybutyrylcarnitine,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"
+695,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0),Lipid,Hexosylceramides (HCER)
+696,14-HDoHE/17-HDoHE,Lipid,Docosanoid
+697,ascorbic acid 2-sulfate,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+698,oleoylcholine,Lipid,Fatty Acid Metabolism (Acyl Choline)
+699,arachidonoylcholine,Lipid,Fatty Acid Metabolism (Acyl Choline)
+700,docosahexaenoylcholine,Lipid,Fatty Acid Metabolism (Acyl Choline)
+701,dihomo-linolenoyl-choline,Lipid,Fatty Acid Metabolism (Acyl Choline)
+702,caffeic acid sulfate,Xenobiotics,Food Component/Plant
+703,1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*,Lipid,Phosphatidylcholine (PC)
+704,1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*,Lipid,Phosphatidylcholine (PC)
+705,hexadecatrienoate (16:3n3),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+706,hexadecadienoate (16:2n6),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+707,1-eicosapentaenoylglycerol (20:5)*,Lipid,Monoacylglycerol
+708,palmitoleoylcarnitine (C16:1)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"
+709,pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)"
+710,3-methylglutarate/2-methylglutarate,Lipid,"Fatty Acid, Dicarboxylate"
+711,2-hydroxyoleate,Lipid,"Fatty Acid, Monohydroxy"
+712,2'-O-methylcytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing"
+713,2'-O-methyluridine,Nucleotide,"Pyrimidine Metabolism, Uracil containing"
+714,gamma-glutamyl-alpha-lysine,Peptide,Gamma-glutamyl Amino Acid
+715,palmitoyl-oleoyl-glycerol (16:0/18:1) [2]*,Lipid,Diacylglycerol
+716,oleoyl-oleoyl-glycerol (18:1/18:1)  [1]*,Lipid,Diacylglycerol
+717,oleoyl-oleoyl-glycerol (18:1/18:1) [2]*,Lipid,Diacylglycerol
+718,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]*,Lipid,Diacylglycerol
+719,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2]*,Lipid,Diacylglycerol
+720,palmitoyl-arachidonoyl-glycerol (16:0/20:4) [1]*,Lipid,Diacylglycerol
+721,palmitoyl-arachidonoyl-glycerol (16:0/20:4) [2]*,Lipid,Diacylglycerol
+722,oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]*,Lipid,Diacylglycerol
+723,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*,Lipid,Diacylglycerol
+724,"diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])*",Lipid,Diacylglycerol
+725,stearoyl-arachidonoyl-glycerol (18:0/20:4) [1]*,Lipid,Diacylglycerol
+726,stearoyl-arachidonoyl-glycerol (18:0/20:4) [2]*,Lipid,Diacylglycerol
+727,1-oleoyl-2-arachidonoyl-GPI (18:1/20:4)*,Lipid,Phosphatidylinositol (PI)
+728,N-behenoyl-sphingadienine (d18:2/22:0)*,Lipid,Ceramides
+729,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*,Lipid,Hexosylceramides (HCER)
+730,2-hydroxybehenate,Lipid,"Fatty Acid, Monohydroxy"
+731,2-hydroxynervonate*,Lipid,"Fatty Acid, Monohydroxy"
+732,sphingadienine,Lipid,Sphingolipid Synthesis
+733,glycerophosphoserine*,Lipid,Phospholipid Metabolism
+734,N-nervonoyl-sphingadiene (d18:2/24:1)*,Lipid,Ceramides
+735,glycosyl-N-arachidoyl-sphingosine (d18:1/20:0)*,Lipid,Hexosylceramides (HCER)
+736,hexadecasphingosine (d16:1)*,Lipid,Sphingosines
+737,N-erucoyl-sphingosine (d18:1/22:1)*,Lipid,Ceramides
+738,glycosyl-N-erucoyl-sphingosine (d18:1/22:1)*,Lipid,Hexosylceramides (HCER)
+739,"ceramide (d18:1/17:0, d17:1/18:0)*",Lipid,Ceramides
+740,"glycosyl ceramide (d18:2/24:1, d18:1/24:2)*",Lipid,Hexosylceramides (HCER)
+741,glycosyl-N-tricosanoyl-sphingadienine (d18:2/23:0)*,Lipid,Hexosylceramides (HCER)
+742,"glycosyl ceramide (d18:1/23:1, d17:1/24:1)*",Lipid,Hexosylceramides (HCER)
+743,stearoylcholine*,Lipid,Fatty Acid Metabolism (Acyl Choline)
+744,linoleoylcholine*,Lipid,Fatty Acid Metabolism (Acyl Choline)
+745,docosatrienoate (22:3n6)*,Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+746,nisinate (24:6n3),Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+747,"sphingomyelin (d18:0/20:0, d16:0/22:0)*",Lipid,Dihydrosphingomyelins
+748,"sphingomyelin (d18:1/19:0, d19:1/18:0)*",Lipid,Sphingomyelins
+749,sphingomyelin (d18:2/18:1)*,Lipid,Sphingomyelins
+750,sphingomyelin (d18:2/24:2)*,Lipid,Sphingomyelins
+751,"sphingomyelin (d18:2/21:0, d16:2/23:0)*",Lipid,Sphingomyelins
+752,sphingomyelin (d18:2/23:1)*,Lipid,Sphingomyelins
+753,"sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*",Lipid,Sphingomyelins
+754,"sphingomyelin (d17:2/16:0, d18:2/15:0)*",Lipid,Sphingomyelins
+755,linolenoylcarnitine (C18:3)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)"
+756,behenoylcarnitine (C22)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"
+757,lignoceroylcarnitine (C24)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"
+758,arachidonoylcarnitine (C20:4),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)"
+759,eicosenoylcarnitine (C20:1)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"
+760,dihomo-linoleoylcarnitine (C20:2)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)"
+761,dihomo-linolenoylcarnitine (C20:3n3 or 6)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)"
+762,pentadecanoylcarnitine (C15)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"
+763,docosahexaenoylcarnitine (C22:6)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)"
+764,nervonoylcarnitine (C24:1)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"
+765,"N,N,N-trimethyl-5-aminovalerate",Amino Acid,Lysine Metabolism
+766,carotene diol (1),Cofactors and Vitamins,Vitamin A Metabolism
+767,carotene diol (2),Cofactors and Vitamins,Vitamin A Metabolism
+768,carotene diol (3),Cofactors and Vitamins,Vitamin A Metabolism
+769,(N(1) + N(8))-acetylspermidine,Amino Acid,Polyamine Metabolism
+770,5-dodecenoylcarnitine (C12:1),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"
+771,2-butenoylglycine,Lipid,Fatty Acid Metabolism (Acyl Glycine)
+772,N-palmitoyl-phytosphingosine (t18:0/16:0),Lipid,Dihydroceramides
+773,3-hydroxypalmitoylcarnitine,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"
+774,3-hydroxyoleoylcarnitine,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"
+775,isocaproylglycine,Lipid,Fatty Acid Metabolism (Acyl Glycine)
+776,trans-2-hexenoylglycine,Lipid,Fatty Acid Metabolism (Acyl Glycine)
+777,2-hydroxyarachidate*,Lipid,"Fatty Acid, Monohydroxy"
+778,18-methylnonadecanoate (i20:0),Lipid,"Fatty Acid, Branched"
+779,3-hydroxyoleate*,Lipid,"Fatty Acid, Monohydroxy"
+780,lyxonate,Carbohydrate,Pentose Metabolism
+781,heptadecanedioate (C17-DC),Lipid,"Fatty Acid, Dicarboxylate"
+782,nonadecanedioate (C19-DC),Lipid,"Fatty Acid, Dicarboxylate"
+783,dodecenedioate (C12:1-DC)*,Lipid,"Fatty Acid, Dicarboxylate"
+784,hexadecenedioate (C16:1-DC)*,Lipid,"Fatty Acid, Dicarboxylate"
+785,octadecenedioate (C18:1-DC),Lipid,"Fatty Acid, Dicarboxylate"
+786,heptenedioate (C7:1-DC)*,Lipid,"Fatty Acid, Dicarboxylate"
+787,octadecadienedioate (C18:2-DC)*,Lipid,"Fatty Acid, Dicarboxylate"
+788,N-acetyl-2-aminooctanoate*,Lipid,"Fatty Acid, Amino"
+789,hydroxyasparagine**,Amino Acid,Alanine and Aspartate Metabolism
+790,genistein sulfate*,Xenobiotics,Food Component/Plant
+791,3-hydroxybutyroylglycine**,Lipid,Fatty Acid Metabolism (Acyl Glycine)
+792,glyco-alpha-muricholate**,Lipid,Primary Bile Acid Metabolism
+793,glyco-beta-muricholate**,Lipid,Primary Bile Acid Metabolism
+794,"N,N,N-trimethyl-alanylproline betaine (TMAP)",Amino Acid,Urea cycle; Arginine and Proline Metabolism
+795,3-formylindole,Xenobiotics,Food Component/Plant
+796,gamma-glutamylcitrulline*,Peptide,Gamma-glutamyl Amino Acid
+797,"sphingomyelin (d17:1/14:0, d16:1/15:0)*",Lipid,Sphingomyelins
+798,tetradecadienoate (14:2)*,Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+799,3-amino-2-piperidone,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+800,"N,N-dimethylalanine",Amino Acid,Alanine and Aspartate Metabolism
+801,3-indoleglyoxylic acid,Xenobiotics,Food Component/Plant
+802,enterolactone sulfate,Xenobiotics,Food Component/Plant
+803,ascorbic acid 3-sulfate*,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+804,"N6,N6-dimethyllysine",Amino Acid,Lysine Metabolism
+805,1-carboxyethylphenylalanine,Amino Acid,Phenylalanine Metabolism
+806,1-carboxyethyltyrosine,Amino Acid,Tyrosine Metabolism
+807,1-carboxyethylvaline,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+808,1-carboxyethylleucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+809,1-carboxyethylisoleucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+810,dodecadienoate (12:2)*,Lipid,"Fatty Acid, Dicarboxylate"
+811,N-acetyl-isoputreanine,Amino Acid,Polyamine Metabolism
+812,2-naphthol sulfate,Xenobiotics,Chemical
+813,4-ethylcatechol sulfate,Xenobiotics,Benzoate Metabolism
+814,"N2-acetyl,N6,N6-dimethyllysine",Amino Acid,Lysine Metabolism
+815,4-methylhexanoylglycine,Lipid,Fatty Acid Metabolism (Acyl Glycine)
+816,3-hydroxyoctanoylglycine,Lipid,Fatty Acid Metabolism (Acyl Glycine)
+817,heptadecatrienoate (17:3)*,Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6)
+818,(3'-5')-adenylyladenosine*,Nucleotide,Dinucleotide
+819,(3'-5')-adenylylguanosine*,Nucleotide,Dinucleotide
+820,(3'-5')-guanylyladenosine*,Nucleotide,Dinucleotide
+821,1-meadoylglycerol (20:3n9)*,Lipid,Monoacylglycerol
+822,meadoylcarnitine (C20:3n9)*,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)"
+823,1-heptadecenoylglycerol (17:1)*,Lipid,Monoacylglycerol
+824,2-heptadecenoylglycerol (17:1)*,Lipid,Monoacylglycerol
+825,dihydrocaffeate sulfate (2),Xenobiotics,Food Component/Plant
+826,3-hydroxyhexanoylcarnitine (1),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"
+827,"2,6-dihydroxybenzoic acid",Xenobiotics,Drug - Topical Agents
+828,"2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*",Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+829,hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**,Lipid,Sphingomyelins
+830,tetradecadienedioate (C14:2-DC)*,Lipid,"Fatty Acid, Dicarboxylate"
+831,eicosenedioate (C20:1-DC)*,Lipid,"Fatty Acid, Dicarboxylate"
+832,glu-gly-asn-val**,Peptide,Polypeptide
+833,"hydroxy-N6,N6,N6-trimethyllysine*",Amino Acid,Lysine Metabolism
+834,undecenoylcarnitine (C11:1),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"
+835,3-decenoylcarnitine,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"
+836,3-hydroxydecanoylcarnitine,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"
+837,palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0),Lipid,Ceramide PEs
+838,succinoyltaurine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+839,hexanoyltaurine,Lipid,Endocannabinoid
+840,leucylhydroxyproline*,Peptide,Dipeptide Derivative
+841,isoleucylhydroxyproline*,Peptide,Dipeptide Derivative
+842,2-hydroxy-4-(methylthio)butanoic acid,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism"
+843,branched chain 14:0 dicarboxylic acid**,Lipid,"Fatty Acid, Dicarboxylate"
+844,(2 or 3)-decenoate (10:1n7 or n8),Lipid,Medium Chain Fatty Acid
+845,"N,N-dimethylvaline",Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+846,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*",Partially Characterized Molecules,Partially Characterized Molecules
+847,citronellic acid,Lipid,"Fatty Acid, Branched"
+848,glycine conjugate of C6H10O2 (2)*,Partially Characterized Molecules,Partially Characterized Molecules
+849,glycine conjugate of C6H10O2 (3)*,Partially Characterized Molecules,Partially Characterized Molecules
+850,"branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*",Partially Characterized Molecules,Partially Characterized Molecules
+851,decadienedioic acid (C10:2-DC)**,Lipid,"Fatty Acid, Dicarboxylate"
+852,N-acetyl-2-aminoadipate,Amino Acid,Lysine Metabolism
+853,4-chlorobenzoic acid,Xenobiotics,Chemical
+854,2-methoxyhydroquinone sulfate (2),Xenobiotics,Benzoate Metabolism
+855,"2,4-di-tert-butylphenol",Xenobiotics,Chemical
+856,3-hydroxyoctanoylcarnitine (1),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"
+857,3-hydroxyoctanoylcarnitine (2),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"
+858,"cis-3,4-methyleneheptanoylglycine",Lipid,Fatty Acid Metabolism (Acyl Glycine)
+859,"bilirubin degradation product, C16H18N2O5 (1)**",Partially Characterized Molecules,Partially Characterized Molecules
+860,"bilirubin degradation product, C16H18N2O5 (2)**",Partially Characterized Molecules,Partially Characterized Molecules
+861,"bilirubin degradation product, C17H18N2O4 (1)**",Partially Characterized Molecules,Partially Characterized Molecules
+862,"bilirubin degradation product, C17H18N2O4 (2)**",Partially Characterized Molecules,Partially Characterized Molecules
+863,"bilirubin degradation product, C17H18N2O4 (3)**",Partially Characterized Molecules,Partially Characterized Molecules
+864,"bilirubin degradation product, C17H20N2O5 (1)**",Partially Characterized Molecules,Partially Characterized Molecules
+865,"bilirubin degradation product, C17H20N2O5 (2)**",Partially Characterized Molecules,Partially Characterized Molecules
+866,"N,N-dimethyl-pro-pro",Peptide,Modified Peptides
+867,oxindolylalanine,Amino Acid,Tryptophan Metabolism

@@ -1,0 +1,29 @@
+LIST OF SIMULATION SETUPS
+
+ABBREVIATIONS:
+L:Liver
+T:Tumour
+M:Microbiome
+W:WAT
+K:Kidney
+
+1. SIM1
+	a. Tissues: M+L+T 
+	b. Objective:
+		i. M:biomass (all + community)
+		ii. L:biomass
+		iii. T:biomass
+
+2. SIM2
+	a. Tissues: M+L+T
+	b. Objective:
+		i. M:biomass (all + community)
+		ii. L:none
+		iii. T:biomass 
+
+3. SIM3
+	a. Tissues: M+L+T
+	b. Objective:
+		i. M:biomass (all + community)
+		ii. L: glucose production
+		iii. T: biomass 
