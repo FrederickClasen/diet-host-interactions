@@ -125,6 +125,8 @@ for j=1:length(diets)
         disp('Adding biomass constraint ...');
         newModel = biomassConstraint(newModel,mergedModels(i).modelname,mergedModels(i).modelNames,mergedModels(i).shortnames);
         
+        % this part for the species KO
+        
 %         speciesKO(counter).diet = diet;
 %         speciesKO(counter).modelname = mergedModels(i).modelname;
 %         shortnames = mergedModels(i).shortnames;
@@ -170,93 +172,6 @@ for j=1:length(diets)
         writetable(T,'data/models/Fluxes/Fluxes'+diet+'.xlsx','Sheet',mergedModels(i).modelname,'WriteVariableNames',true);
     end
 end
-
-%% ADD 3HPA REACTION TO ALL COMMUNITY MODELS
-
-load('mergedModels.mat');
-for i=1:length(mergedModels)
-    metsToAdd = struct();
-    glyc3HPA_rxns = struct();
-    HPAexprt_rxns = struct();
-    for j=1:length(mergedModels(i).shortnames)
-        disp(mergedModels(i).shortnames{j});
-        sn = string(mergedModels(i).shortnames{j});
-        
-        % metsToAdd
-        metID = char("3hppnl["+sn+"_c]");
-        metName = char("3-Hydroxypropanal");
-        if ~ismember(mergedModels(i).model.mets,metID)
-            mergedModels(i).model = addMetabolite(mergedModels(i).model,metID,metName);
-        end
-        
-        rxnID = char(sn + '_glyc3HPA');
-        reactionFormula = char('glyc['+sn+'_c] => 3hppnl['+sn+'_c]');
-        [mergedModels(i).model, ~] = addReaction(mergedModels(i).model, rxnID,'reactionFormula',reactionFormula);
-        
-        rxnID = char(sn + '_HPAexprt');
-        reactionFormula = char('3hppnl['+sn+'_c] => 3hppnl[e]');
-        [mergedModels(i).model, ~] = addReaction(mergedModels(i).model, rxnID,'reactionFormula',reactionFormula);
-    end
-    rxnID = char('place_EX_3hppnl');
-    reactionFormula = char('3hppnl[e] <=>');
-    [mergedModels(i).model, ~] = addReaction(mergedModels(i).model, rxnID,'reactionFormula',reactionFormula);
-end
-
-%% SYSTEMATICALLY REMOVE ONE BACTERIA AT A TIME
-
-for i=1:length(mergedModels)
-    model = mergedModels(i).model;
-    shortnames = mergedModels(i).shortnames;
-    for j=1:length(shortnames)
-        shortname = shortnames{j};
-        rxns = cellstr(model.rxns(contains(model.rxns,shortname)));
-        tModel = setParam(model,'eq',rxns,0);
-        fba = optimizeCbModel(tModel);
-        disp(fba.f);
-    end
-end
-
-%%
-
-load('mergedModels.mat');
-for i=1:length(mergedModels)
-
-    disp('Fixing metComps ...');
-    newModel = fixMetComps(mergedModels(i).model);
-
-    disp('Formatting exchange reactions ...');
-    newModel = formatExchangeRxns(newModel);
-    
-    disp('Adding biomass constraint ...');
-    newModel = biomassConstraint(newModel,mergedModels(i).modelname,mergedModels(i).modelNames,mergedModels(i).shortnames);
-    
-    mergedModels(i).model = newModel;
-end
-
-%%
-
-metKEGG = struct();
-counter = 0;
-for i=1:length(models)
-    tModel = models(i).model;
-    for j=1:length(tModel.mets)
-        counter = counter + 1;
-        metKEGG(counter).met = tModel.metNames(j);
-        metKEGG(counter).kegg = tModel.metKEGGID(j);
-    end
-end
-
-t = struct2table(metKEGG);
-writetable(t,'../Integration/GEM/Microbiome/nonDEN_Fed_KEGG.csv');
-
-
-
-
-
-
-
-
-
 
 
 
