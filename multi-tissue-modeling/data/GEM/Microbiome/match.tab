@@ -1,0 +1,617 @@
+M_met	M_KEGG	T_met	T_KEGG	match
+C03465	3-methyl-2-oxopentanoate	C03465	2-oxo-3-methylvalerate	match
+C00334	4-Aminobutanoate	C00334	4-aminobutyrate	match
+C00440	5-Methyltetrahydrofolate	C00440	5-methyl-THF	match
+C02528	chenodeoxycholate	C02528	chenodiol	match
+C00033	acetate	C00033	acetate	match
+C00147	Adenine	C00147	Adenine	match
+C00212	Adenosine	C00212	adenosine	match
+C00026	2-Oxoglutarate	C00026	AKG	match
+C00041	L-alanine	C00041	alanine	match
+C00020	AMP	C00020	AMP	match
+C00259	L-arabinose	C00259	L-arabinose	match
+C00062	L-argininium(1+)	C00062	arginine	match
+C00152	L-asparagine	C00152	asparagine	match
+C00049	L-aspartate(1-)	C00049	aspartate	match
+C00120	Biotin	C00120	biotin	match
+C00246	butyrate	C00246	Butyrate	match
+C01419	L-cysteinylglycine	C01419	cys-gly	match
+C00114	Choline	C00114	choline	match
+C00695	Cholate	C00695	cholate	match
+C00158	Citrate	C00158	citrate	match
+C00698	Chloride	C00698	Chloride	match
+C00011	carbon dioxide	C00011	CO2	match
+C00380	cytosine	C00380	cytosine	match
+C00097	L-cysteine	C00097	cysteine	match
+C00475	Cytidine	C00475	cytidine	match
+C00559	2-deoxyadenosine	C00559	deoxyadenosine	match
+C00881	Deoxycytidine	C00881	deoxycytidine	match
+C02679	laurate	C02679	lauric acid	match
+C05466	glycochenodeoxycholate	C05466	glycochenodeoxycholate	match
+C00330	Deoxyguanosine	C00330	deoxyguanosine	match
+C05512	Deoxyinosine	C05512	deoxyinosine	match
+C00526	Deoxyuridine	C00526	deoxyuridine	match
+C00189	etha[c]	C00189	ethanolamine	match
+C14818	Fe2+	C14818	Fe2+	match
+C14819	Fe3+	C14819	Fe3+	match
+C00504	Folate	C00504	folate	match
+C00058	Formate	C00058	formate	match
+C00329	D-Glucosamine	C00329	glucosamine	match
+C01921	glycocholate	C01921	Glycocholate	match
+C00031	D-glucose	C00031	glucose	match
+C00064	L-glutamine	C00064	glutamine	match
+C00025	L-glutamate(1-)	C00025	glutamate	match
+C00037	Glycine	C00037	glycine	match
+C00116	Glycerol	C00116	glycerol	match
+C00387	Guanosine	C00387	guanosine	match
+C00051	Reduced glutathione	C00051	GSH	match
+C00242	Guanine	C00242	guanine	match
+C00001	Water	C00001	H2O	match
+C00249	Hexadecanoate (n-C16:0)	C00249	palmitate	match
+C00135	L-histidine	C00135	histidine	match
+C00262	Hypoxanthine	C00262	Hypoxanthine	match
+C00407	L-isoleucine	C00407	isoleucine	match
+C00294	Inosine	C00294	inosine	match
+C00238	potassium	C00238	K+	match
+C00256	(R)-lactate	C00256	D-lactate	match
+C00186	(S)-lactate	C00186	L-lactate	match
+C00243	Lactose	C00243	lactose	match
+C00123	L-leucine	C00123	leucine	match
+C00047	L-lysinium(1+)	C00047	lysine	match
+C00208	Maltose	C00208	maltose	match
+C01936	Maltohexaose	C01936	maltohexaose	match
+C01835	maltotriose	C01835	maltotriose	match
+C00159	D-Mannose	C00159	mannose	match
+C00073	L-methionine	C00073	methionine	match
+C01330	Sodium	C01330	Na+	match
+C00153	Nicotinamide	C00153	nicotinamide	match
+C00014	Ammonium	C00014	NH3	match
+C00007	O2	C00007	O2	match
+C01530	octadecanoate (n-C18:0)	C01530	stearate	match
+C00712	octadecenoate (n-C18:1)	C00712	oleate	match
+C00077	Ornithine	C00077	ornithine	match
+C00079	L-phenylalanine	C00079	phenylalanine	match
+C00032	Protoheme	C00032	heme	match
+C00009	hydrogenphosphate	C00009	Pi	match
+C00864	(R)-Pantothenate	C00864	pantothenate	match
+C00163	propionate	C00163	propanoate	match
+C00013	Diphosphate	C00013	PPi	match
+C00148	L-proline	C00148	proline	match
+C00134	Putrescine	C00134	putrescine	match
+C00534	Pyridoxamine	C00534	pyridoxamine	match
+C00314	Pyridoxine	C00314	pyridoxine	match
+C00022	pyruvate	C00022	pyruvate	match
+C00255	Riboflavin	C00255	riboflavin	match
+C00794	D-glucitol	C00794	D-glucitol	match
+C00065	L-serine	C00065	serine	match
+C00094	Sulfite	C00094	sulfite	match
+C00059	sulfate	C00059	sulfate	match
+C00042	Succinate	C00042	succinate	match
+C00089	Sucrose	C00089	sucrose	match
+C00245	Taurine	C00245	taurine	match
+C05465	taurochenodeoxycholate	C05465	taurochenodeoxycholate	match
+C00101	5,6,7,8-Tetrahydrofolate	C00101	THF	match
+C00378	Thiamin	C00378	thiamin	match
+C00188	L-threonine	C00188	threonine	match
+C00214	Thymidine	C00214	thymidine	match
+C00078	L-tryptophan	C00078	tryptophan	match
+C06424	tetradecanoate (n-C14:0)	C06424	myristic acid	match
+C00082	L-tyrosine	C00082	tyrosine	match
+C00106	uracil	C00106	uracil	match
+C00086	Urea	C00086	urea	match
+C00299	Uridine	C00299	uridine	match
+C00183	L-valine	C00183	valine	match
+C00469	ethanol	C00469	ethanol	match
+C01019	L-fucose	C01019	6-deoxy-L-galactose	match
+C00127	Oxidized glutathione	C00127	GSSG	match
+C00209	oxalate(2-)	C00209	oxalate	match
+C01089	(R)-3-hydroxybutyrate	C01089	(R)-3-hydroxybutanoate	match
+C00719	glycine betaine	C00719	betaine	match
+C03990	lithocholate	C03990	lithocholate	match
+C00491	L-cystine	C00491	cystine	match
+C00483	tyraminium	C00483	Tyramine	match
+0059	sulfate	C00059	sulfate	match
+C00315	Spermidine	microbiome
+C00042	Succinate	C00042	succinate	match
+C00089	Sucrose	C00089	sucrose	match
+C00245	Taurine	C00245	taurine	match
+C05465	taurochenodeoxycholate	C05465	taurochenodeoxycholate	match
+C00101	5,6,7,8-Tetrahydrofolate	C00101	THF	match
+C00378	Thiamin	C00378	thiamin	match
+C00188	L-threonine	C00188	threonine	match
+C00214	Thymidine	C00214	thymidine	match
+C01083	Trehalose	microbiome
+C00078	L-tryptophan	C00078	tryptophan	match
+C05529	thiosulfate(2-)	microbiome
+C06424	tetradecanoate (n-C14:0)	C06424	myristic acid	match
+C00082	L-tyrosine	C00082	tyrosine	match
+C00106	uracil	C00106	uracil	match
+C00086	Urea	C00086	urea	match
+C00299	Uridine	C00299	uridine	match
+C00183	L-valine	C00183	valine	match
+C00385	Xanthine	microbiome
+C02917	(S)-propane-1,2-diol	microbiome
+G06866	released mucin-type O-glycan No 110	microbiome
+G06868	released mucin-type O-glycan No 112	microbiome
+G01462	released mucin-type O-glycan No 113	microbiome
+G00592	released mucin-type O-glycan No 117	microbiome
+G03456	released mucin-type O-glycan No 12	microbiome
+G07029	released mucin-type O-glycan No 137	microbiome
+G11528	released mucin-type O-glycan No 13	microbiome
+G08438	released mucin-type O-glycan No 141	microbiome
+G07897	released mucin-type O-glycan No 143	microbiome
+G11584	released mucin-type O-glycan No 144	microbiome
+G07733	released mucin-type O-glycan No 148	microbiome
+G03094	released mucin-type O-glycan No 14	microbiome
+G05487	released mucin-type O-glycan No 152	microbiome
+G03238	released mucin-type O-glycan No 154	microbiome
+G02923	released mucin-type O-glycan No 15	microbiome
+G06744	released mucin-type O-glycan No 160	microbiome
+G02914	released mucin-type O-glycan No 16	microbiome
+G04568	released mucin-type O-glycan No 17	microbiome
+G03003	released mucin-type O-glycan No 18	microbiome
+G10799	mucin-type O-glycan No 195	microbiome
+G00912	released mucin-type O-glycan No 195	microbiome
+G02813	released mucin-type O-glycan No 19	microbiome
+G11128	mucin-type O-glycan No 22	microbiome
+G00320	released mucin-type O-glycan No 22	microbiome
+G00566	released mucin-type O-glycan No 23	microbiome
+G00224	mucin-type O-glycan No 24	microbiome
+G08312	released mucin-type O-glycan No 24	microbiome
+G07109	released mucin-type O-glycan No 25	microbiome
+G07108	released mucin-type O-glycan No 26	microbiome
+G07067	released mucin-type O-glycan No 27	microbiome
+G07066	released mucin-type O-glycan No 28	microbiome
+G01996	released mucin-type O-glycan No 29	microbiome
+G11519	released mucin-type O-glycan No 2	microbiome
+G00219	mucin-type O-glycan No 30	microbiome
+G00563	released mucin-type O-glycan No 30	microbiome
+G01930	released mucin-type O-glycan No 37	microbiome
+G05786	released mucin-type O-glycan No 38	microbiome
+G00942	released mucin-type O-glycan No 39	microbiome
+G00682	released mucin-type O-glycan No 3	microbiome
+G05387	released mucin-type O-glycan No 42	microbiome
+G07612	released mucin-type O-glycan No 45	microbiome
+G06742	mucin-type O-glycan No 46	microbiome
+G02047	released mucin-type O-glycan No 46	microbiome
+G01465	released mucin-type O-glycan No 47	microbiome
+G10794	mucin-type O-glycan No 48	microbiome
+G00378	released mucin-type O-glycan No 48	microbiome
+G02979	released mucin-type O-glycan No 4	microbiome
+G06389	mucin-type O-glycan No 50	microbiome
+G01490	released mucin-type O-glycan No 50	microbiome
+G00208	mucin-type O-glycan No 51	microbiome
+G01186	released mucin-type O-glycan No 51	microbiome
+G00355	released mucin-type O-glycan No 53	microbiome
+G02913	released mucin-type O-glycan No 5	microbiome
+G05243	mucin-type O-glycan No 66	microbiome
+G04550	released mucin-type O-glycan No 6	microbiome
+G11127	mucin-type O-glycan No 73	microbiome
+G03254	released mucin-type O-glycan No 73	microbiome
+G11138	released mucin-type O-glycan No 74	microbiome
+G06422	released mucin-type O-glycan No 75	microbiome
+G06369	released mucin-type O-glycan No 76	microbiome
+G11136	mucin-type O-glycan No 78	microbiome
+G07968	released mucin-type O-glycan No 79	microbiome
+G12059	released mucin-type O-glycan No 7	microbiome
+G05085	released mucin-type O-glycan No 81	microbiome
+G07031	released mucin-type O-glycan No 82	microbiome
+G06946	released mucin-type O-glycan No 83	microbiome
+G01956	released mucin-type O-glycan No 84	microbiome
+G03040	released mucin-type O-glycan No 85	microbiome
+G06377	released mucin-type O-glycan No 86	microbiome
+G06414	released mucin-type O-glycan No 91	microbiome
+C04383	Tn antigen	microbiome
+C01132	N-acetyl-D-galactosamine	microbiome
+G00455	Alpha-2,6-N-acetylneuraminate-N-acetylgalactosamine	microbiome
+G01033	Beta-1,3-N,N-diacetylgalactosamine	microbiome
+G00543	Beta-1,3-N-acetylglucosamine-N-acetylgalactosamine	microbiome
+G02165	Beta-1,6-N-acetylglucosamine-N-acetylgalactosamine	microbiome
+G00306	released Core 2	microbiome
+G00643	released Core 4	microbiome
+C00469	ethanol	C00469	ethanol	match
+G00727	released F1alpha antigen	microbiome
+C01019	L-fucose	C01019	6-deoxy-L-galactose	match
+G00763	Alpha-1,3-Galactose-N-acetylgalactosamine	microbiome
+G10607	Beta-1,3-Galactose-N-acetylgalactosamine	microbiome
+C00257	D-gluconate	microbiome
+G09115	released GlcNAc-alpha-1,4-Core 1	microbiome
+G03301	released GlcNAc-alpha-1,4-Core 2	microbiome
+C00127	Oxidized glutathione	C00127	GSSG	match
+C00209	oxalate(2-)	C00209	oxalate	match
+G00261	released sialyl-Tn antigen	microbiome
+C00721	Dextrin	microbiome
+C02632	Isobutyrate, 2-Methylpropanoate	microbiome
+C08262	Isovalerate, 3-Methylbutanoate	microbiome
+C01724	lanosterol	microbiome
+G00221	mucin-type O-glycan No 54	microbiome
+G00336	released mucin-type O-glycan No 54	microbiome
+G00269	released disialyl-T antigen	microbiome
+C01551	Allantoin	microbiome
+C01089	(R)-3-hydroxybutyrate	C01089	(R)-3-hydroxybutanoate	match
+C00740	D-serine	microbiome
+C57006	L-cysteate(1-)	microbiome
+C00719	glycine betaine	C00719	betaine	match
+C00533	Nitric oxide	microbiome
+C01722	L-Sorbitol (iMM904)	microbiome
+C04643	3alpha,12alpha-Dihydroxy-7-oxo-5beta-cholanate	microbiome
+C01157	trans-4-hydroxy-L-proline	microbiome
+C03990	lithocholate	C03990	lithocholate	match
+C07880	Ursodiol	microbiome
+C17687	Allodeoxycholic acid	microbiome
+C04483	deoxycholic acid	microbiome
+C00317	Amylopectin, 900 repeat units	microbiome
+C00489	Glutarate	microbiome
+C00954	indole-3-acetate	microbiome
+C07086	phenylacetate	microbiome
+C00491	L-cystine	C00491	cystine	match
+C15025	L-Carnitine	microbiome
+C17660	Isochenodeoxycholate	microbiome
+C02457	Propane-1,3-diol	microbiome
+G03769	Arabinoxylan, 30 xyl_D, 18 arab_L, 3 gal, 3 glc_D	microbiome
+G10130	Carob galactomannan, Gal:Man ratio 22/78. 220 gal, 780 man assumed	microbiome
+G11598	Konjac glucomannan, MW 77,500 (PMID:17962981), Man:Glc ~ 2:1. -> 286 man, 143 glc_D	microbiome
+C03323	Chicory inulin, 30 monosaccharide units (29 fru, 1 glc) on average	microbiome
+G00279	Oat spelt xylan, MW 79200 (DOI: 10.1002/masy.200551405) = 528 xyl_D	microbiome
+C00483	tyraminium	C00483	Tyramine	match
+C06306	(+)-alpha-pinene	tissue
+C02477	(+)-Alpha-Tocopherol	tissue
+Cx1	(10Z)-heptadecenoic acid	tissue
+C16522	(11Z,14Z,17Z)-eicosatrienoic acid	tissue
+C16525	(11Z,14Z)-eicosadienoic acid	tissue
+C16533	(13Z,16Z)-docosadienoic acid	tissue
+Cx9	(13Z)-eicosenoic acid	tissue
+Cx11	(13Z)-octadecenoic acid	tissue
+C04042	(20S)-20-Hydroxypregn-4-En-3-One	tissue
+Cx59	(4Z,7Z,10Z,13Z,16Z)-DPA	tissue
+C03740	(5-L-glutamyl)-L-amino acid	tissue
+Cx72	(6Z,9Z,12Z,15Z,18Z,21Z)-THA	tissue
+Cx70	(6Z,9Z,12Z,15Z,18Z)-TPA	tissue
+Cx65	(6Z,9Z)-octadecadienoic acid	tissue
+Cx73	(7Z)-octadecenoic acid	tissue
+Cx75	(7Z)-tetradecenoic acid	tissue
+Cx83	(9E)-tetradecenoic acid	tissue
+Cx88	(9Z,12Z,15Z,18Z,21Z)-TPA	tissue
+Cx86	(9Z,12Z,15Z,18Z)-TTA	tissue
+Cx2609	(S)-Lactate	tissue
+m11	1-acylglycerol-chylomicron pool	tissue
+m18	1-acylglycerol-VLDL pool	tissue
+C04317	1-Alkyl 2-Lysoglycerol 3-Phosphocholine	tissue
+C02918	1-methylnicotinamide	tissue
+C04317_23	1-organyl-2-lyso-sn-glycero-3-phosphocholine	tissue
+m23	1,2-diacylglycerol-chylomicron pool	tissue
+m30	1,2-diacylglycerol-VLDL pool	tissue
+Cx126	10-formyl-THF-glu(5)	tissue
+Cx127	10-formyl-THF-glu(6)	tissue
+Cx128	10-formyl-THF-glu(7)	tissue
+C00234	10-formyl-THF	tissue
+Cx125	10,13,16-docosatriynoic acid	tissue
+Cx120	10,13,16,19-docosatetraenoic acid	tissue
+Cx1390	12-Dehydrocholic acid; 12-Oxodeoxycholic acid; 12oxo-3alpha,7alpha-Dihydroxy-5beta-cholan-24-oic acid	tissue
+Cx155	12,15,18,21-tetracosatetraenoic acid	tissue
+C16534	13,16,19-docosatrienoic acid	tissue
+C05504	16-glucuronide-estriol	tissue
+C04598	2-acetyl-1-alkyl-sn-glycero-3-phosphocholine	tissue
+Cx2404	2-Deoxyadenosine	tissue
+Cx1421	2-hydroxy-atorvastatin-acid / ortho-hydroxy-atorvastatin acid	tissue
+Cx1423	2-hydroxy-atorvastatin-lactone / ortho-hydroxy-atorvastatin lactone	tissue
+C05984	2-hydroxybutyrate	tissue
+C14748	20-hydroxy-arachidonate	tissue
+Cx1487	3-alpha-iso-pravastatin	tissue
+Cx1451	3-dehydro-Deoxycholate	tissue
+Cx1452	3-dehydro-Lithocholate	tissue
+Cx1449	3-Dehydrochenodeoxychollyc acid; 7oxo-3alpha-hydroxy-5beta-cholan-24-oic acid	tissue
+Cx1450	3-Dehydrocholic acid; 3oxo-7alpha,12alpha-Dihydroxy-5beta-cholan-24-oic acid	tissue
+C05394	3-keto-beta-D-galactose	tissue
+C05403	3-ketolactose	tissue
+Cx1480	3'-S-hydroxy-pravastatin	tissue
+C04373	3Alpha-Hydroxy-5Beta-Androstan-17-One	tissue
+C04554	3Alpha,7Alpha-Dihydroxy-5Beta-Cholestanate	tissue
+C04722	3Alpha,7Alpha,12Alpha-Trihydroxy-5Beta-Cholestanoate	tissue
+Cx1519	4-hydroxy-atorvastatin-acid / para-hydroxy-atorvastatin acid	tissue
+Cx1520	4-hydroxy-atorvastatin-lactone / para-hydroxy-atorvastatin lactone	tissue
+C03360	4-nitrophenyl-phosphate	tissue
+C03479	5-formyl-THF	tissue
+C00643	5-hydroxy-L-tryptophan	tissue
+Cx627	5-L-gamma-glutamyl	tissue
+C00143	5,10-Methylenetetrahydrofolate	tissue
+Cx604	5alpha-dihydrotestosterone-glucuronide	tissue
+Cx605	5alpha-dihydrotestosterone-sulfate	tissue
+C05444	5beta-cholestane-3alpha,7alpha,26-triol	tissue
+Cx1544	6-epipravastatin	tissue
+Cx1560	7-Dehydrochenodeoxycholic acid; 7oxo-3alpha-hydroxy-5beta-cholan-24-oic acid	tissue
+Cx1561	7-Dehydrocholic acid; 7-Oxodeoxycholic acid; 7oxo-3alpha,12alpha-Dihydroxy-5beta-cholan-24-oic acid	tissue
+Cx1563	7-Ketolithocholate	tissue
+Cx672	7-palmitoleic acid	tissue
+C05455	7alpha-hydroxycholest-4-en-3-one	tissue
+Cx681	8,11-eicosadienoic acid	tissue
+Cx705	9-eicosenoic acid	tissue
+C16536	9-heptadecylenic acid	tissue
+Cx2241	Acetaminophen glucuronide	tissue
+Cx2242	acetaminophen-glutathione-conjugate	tissue
+Cx2677	acetaminophen-mercapturate-conjugate/N-acetyl-cysteine-acetaminophen	tissue
+Cx2240	acetaminophen/paracetamol	tissue
+C00164	Acetoacetate	tissue
+C00207	acetone	tissue
+C01996	acetylcholine	tissue
+C00498	ADP-glucose	tissue
+C06192	ADP-mannose	tissue
+C03246	ADP-ribose-2-phosphate	tissue
+C00301	ADP-ribose	tissue
+C00008	ADP	tissue
+C00788	adrenaline	tissue
+C16527	adrenic acid	tissue
+C06800	aflatoxin B1	tissue
+C00179	agmatine	tissue
+Cx2258	allopurinol	tissue
+Cx735	Alloxan	tissue
+C11135	androsterone-glucuronide	tissue
+C13244	antipyrine	tissue
+C00219	arachidonate	tissue
+C00072	ascorbate	tissue
+Cx2325	atorvastatin-acid	tissue
+Cx2328	atorvastatin-lactone	tissue
+C00002	ATP	tissue
+C08281	behenic acid	tissue
+C07535	benzo[a]pyrene	tissue
+C00099	Beta-Alanine	tissue
+Cx758	beta-carotene	tissue
+C05787	bilirubin-bisglucuronoside	tissue
+C03374	bilirubin-monoglucuronoside	tissue
+C00486	bilirubin	tissue
+Cx1384	Calciol	tissue
+Cx2358	Calcium	tissue
+C00575	cAMP	tissue
+C01353	carbonate	tissue
+C00112	CDP	tissue
+Cx2375	cerivastatin	tissue
+Cx764	cerotic acid	tissue
+C00942	cGMP	tissue
+Cx765	chitin-component	tissue
+C01674	Chitobiose	tissue
+m49	cholesterol-ester pool	tissue
+C00187	cholesterol	tissue
+Cx2360	Cholic acid 3-sulfate	tissue
+Cx829	chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan	tissue
+Cx837	chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan	tissue
+Cx845	chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan	tissue
+Cx855	chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan	tissue
+Cx866	chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan	tissue
+m52	chylomicron	tissue
+Cx887	cis-cetoleic acid	tissue
+C08316	cis-erucic acid	tissue
+C16526	cis-gondoic acid	tissue
+C08367	cis-vaccenic acid	tissue
+C00327	citrulline	tissue
+C00055	CMP	tissue
+C05769	Coproporphyrin I	tissue
+C05770	Coproporphyrin Iii	tissue
+Cx2373	Coprostanol	tissue
+C05851	coumarin	tissue
+C00300	creatine	tissue
+C00791	creatinine	tissue
+C00063	CTP	tissue
+C00309	D-ribulose	tissue
+Cx900	de-Fuc form of PA6	tissue
+C13650	debrisoquin	tissue
+Cx2406	Decanoate (N-C10:0)	tissue
+C01571	decanoic acid	tissue
+C05422	dehydroascorbic acid	tissue
+C04555	dehydroepiandrosterone sulfate	tissue
+Cx2409	Deoxycholic acid 3-sulfate	tissue
+C06429	DHA	tissue
+C00111	DHAP	tissue
+C06127	digalactosylceramidesulfate	tissue
+C03242	dihomo-gamma-linolenate	tissue
+C00415	dihydrofolate	tissue
+C01345	dITP	tissue
+C03758	Dopamine	tissue
+C16513	DPA	tissue
+D01478	ebastine	tissue
+C06425	eicosanoate	tissue
+C01712	elaidate	tissue
+C06428	EPA	tissue
+C05503	estradiol-17beta 3-glucuronide	tissue
+C05141	estriol	tissue
+C02538	estrone 3-sulfate	tissue
+Cx939	estrone-glucuronide	tissue
+C11136	etiocholan-3alpha-ol-17-one 3-glucuronide	tissue
+C00016	FAD	tissue
+m55	fatty acid-chylomicron pool	tissue
+m66	fatty acid-VLDL pool	tissue
+C00061	Flavin Mononucleotide	tissue
+C00095	fructose	tissue
+C00124	galactose	tissue
+C05401	galactosylglycerol	tissue
+C06426	gamma-linolenate	tissue
+C00035	GDP	tissue
+m67	glucosylceramide pool	tissue
+Cx979	glutathionyl-leukotriene C4	tissue
+C00184	Glycerone	tissue
+Cx2481	Glycochenodeoxycholic acid 3-sulfate	tissue
+Cx2480	Glycocholic acid 3-sulfate	tissue
+Cx2483	Glycodeoxycholic acid 3-sulfate	tissue
+C15557	glycolithocholate	tissue
+Cx987	glycophosphatidylinositol-(GPI)-anchored-protein-precursor_XY	tissue
+Cx988	glycoursodeoxycholate	tissue
+Cx2533	Glycoursodeoxycholic acid 3-sulfate	tissue
+C00144	GMP	tissue
+C06139	GQ1b	tissue
+C00044	GTP	tissue
+Cx999	guanidine	tissue
+C00080	H+	tissue
+C00027	H2O2	tissue
+C00288	HCO3-	tissue
+m69	HDL	tissue
+Cx1005	henicosanoic acid	tissue
+Cx1006	heparan sulfate proteoglycan	tissue
+Cx1054	heptaglutamyl-folate(DHF)	tissue
+Cx1055	heptaglutamyl-folate(THF)	tissue
+C05799	heptylic acid	tissue
+Cx1064	hexaglutamyl-folate(DHF)	tissue
+Cx1065	hexaglutamyl-folate(THF)	tissue
+C01585	hexanoic acid	tissue
+C00388	histamine	tissue
+C00263	homoserine	tissue
+C05582	homovanillate	tissue
+C00518	hyaluronate	tissue
+C01328	hydroxide	tissue
+Cx2586	Hyocholic acid; gamma-Muricholate	tissue
+C00104	IDP	tissue
+C00130	IMP	tissue
+C00137	inositol	tissue
+C00708	iodide	tissue
+Cx2592	Isochenodeoxycholic acid; 3beta,7alpha-Dihydroxy-5beta-cholanic acid	tissue
+Cx2604	Isochenodeoxycholic acid; 3beta,7alpha,12alpha-Trihydroxy-5beta-cholanic acid	tissue
+C00081	ITP	tissue
+Cx1112	keratan sulfate I, degradation product 1	tissue
+Cx1153	keratan sulfate I	tissue
+Cx1163	keratan sulfate II (core 2-linked)	tissue
+Cx1178	keratan sulfate II (core 4-linked)	tissue
+C00328	kynurenine	tissue
+Cx2250	L-Alanine	tissue
+C00318	L-carnitine	tissue
+C00355	L-dopa	tissue
+C00408	L-pipecolate	tissue
+m70	LacCer pool	tissue
+m72	LDL	tissue
+C08241	Lepidimoide	tissue
+C00909	leukotriene A4	tissue
+C02165	Leukotriene B4	tissue
+C02166	leukotriene C4	tissue
+C05952	leukotriene E4	tissue
+C06462	leukotriene F4	tissue
+C08320	Lignocerate	tissue
+C06078	limonene	tissue
+C01595	linoleate	tissue
+C06427	linolenate	tissue
+C00725	lipoic acid	tissue
+Cx2614	Lithocholic acid 3-sulfate	tissue
+C05951	LTD4	tissue
+Cx1212	maltodecaose	tissue
+Cx1213	maltoheptaose	tissue
+Cx1214	maltononaose	tissue
+Cx1215	maltopentaose	tissue
+C02052	maltotetraose	tissue
+Cx1216	margaric acid	tissue
+Cx1217	mead acid	tissue
+C07151	metformin	tissue
+C00218	Methylammonium	tissue
+Cx1246	N-methylsalsolinol	tissue
+G00019	n2m2nmasn	tissue
+C00003	NAD+	tissue
+C00004	NADH	tissue
+C00006	NADP+	tissue
+C00829	naphthalene	tissue
+C08323	nervonic acid	tissue
+C01342	NH4+	tissue
+C16535	nonadecylic acid	tissue
+C01601	nonanoic acid	tissue
+C00547	noradrenaline	tissue
+C00704	O2-	tissue
+C06423	octanoic acid	tissue
+Cx1261	omega-3-arachidonic acid	tissue
+C07324	omeprazole	tissue
+G00018	PA6	tissue
+C07394	paclitaxel	tissue
+C08362	palmitolate	tissue
+C16537	pentadecylic acid	tissue
+Cx1270	pentaglutamyl-folate(DHF)	tissue
+Cx1271	pentaglutamyl-folate(THF)	tissue
+Cx1279	physeteric acid	tissue
+C01607	phytanic acid	tissue
+Cx2847	pitavastatin	tissue
+C00870	PNP	tissue
+Cx2852	pravastatin	tissue
+C00410	progesterone	tissue
+C04685	prostaglandin A1	tissue
+C05953	prostaglandin A2	tissue
+C00959	prostaglandin B1	tissue
+C05954	prostaglandin B2	tissue
+C04686	prostaglandin C1	tissue
+C05955	prostaglandin C2	tissue
+C06438	prostaglandin D1	tissue
+C00696	prostaglandin D2	tissue
+C13802	prostaglandin D3	tissue
+C04741	prostaglandin E1	tissue
+C00584	prostaglandin E2	tissue
+C06439	prostaglandin E3	tissue
+C06475	prostaglandin F1alpha	tissue
+C00639	prostaglandin F2alpha	tissue
+C02314	prostaglandin F2beta	tissue
+C05956	prostaglandin G2	tissue
+C00427	prostaglandin H2	tissue
+C01312	prostaglandin I2	tissue
+C00777	retinoate	tissue
+C07639	reverse triiodthyronine	tissue
+C00474	ribitol	tissue
+Cx2863	rosuvastatin	tissue
+Cx1308	S-glutathionyl-2-4-dinitrobenzene	tissue
+Cx1309	S-glutathionyl-ethacrynic acid	tissue
+C05697	selenate	tissue
+C00780	serotonin	tissue
+Cx2886	simvastatin lactone form	tissue
+C00750	spermine	tissue
+C06124	sphingosine-1-phosphate	tissue
+C00319	Sphingosine	tissue
+Cx1322	starch structure 1	tissue
+Cx1323	starch structure 2	tissue
+C16300	stearidonic acid	tissue
+Cx1326	sulfochenodeoxycholate	tissue
+C11301	sulfoglycolithocholate	tissue
+C03642	sulfotaurolithocholate	tissue
+m98	TAG-chylomicron pool	tissue
+m101	TAG-VLDL pool	tissue
+Cx2916	Taurochenodeoxycholic acid 3-sulfate	tissue
+C05122	taurocholate	tissue
+Cx2915	Taurocholic acid 3-sulfate	tissue
+Cx2918	Taurodeoxycholic acid 3-sulfate	tissue
+Cx2950	Taurohyocholic acid; N-(3alpha,6alpha,7alpha-Trihydroxy-5beta-cholan-24-oyl)taurine	tissue
+C02592	Taurolithocholate	tissue
+Cx1328	tauroursodeoxycholate	tissue
+Cx3002	Tauroursodeoxycholic acid 3-sulfate	tissue
+C11134	testosterone glucuronide	tissue
+C01081	thiamin-P	tissue
+C03028	thiamin-PPP	tissue
+C00320	Thiosulfate	tissue
+C05963	thromboxane B2	tissue
+C01829	thyroxine	tissue
+C07148	tolbutamide	tissue
+Cx1367	tricosanoic acid	tissue
+C13795	tridecylic acid	tissue
+C02465	triiodothyronine	tissue
+C00015	UDP	tissue
+C00105	UMP	tissue
+Cx1379	undecylic acid	tissue
+C00366	Urate	tissue
+Cx3019	Ursocholic acid; 3alpha,7beta,12alpha-Trihydroxy-5beta-cholan-24-oic acid; 3alpha,7beta,12alpha-Trihydroxy-5beta-cholanic acid; 7beta-Hydroxyisocholic acid; 7-Epicholic acid	tissue
+Cx1381	ursodeoxycholate	tissue
+Cx3020	Ursodeoxycholic acid 3-sulfate	tissue
+C00075	UTP	tissue
+C00803	valeric acid	tissue
+C05441	vitamin D2	tissue
+m103	VLDL	tissue
+Cx129	W-Hydroxyl Arachidonic Acid	tissue
+Cx1388	ximenic acid	tissue
+C00700	XTP	tissue
+C00038	Zinc	tissue
+C00182	glycogen	tissue
+biomass	biomass	tissue
+m02352	LDL remnant	tissue
+m01819	fatty acid-uptake pool	tissue
+m02047	HDL remnant	tissue
+m02957	TAG-extraction	tissue
+m03146	VLDL remnant	tissue
+m02560	NEFA blood pool in	tissue
+C00283	H2S	tissue
+C00178	thymine	tissue
+C00119	PRPP	tissue
+Cx1003	heneicosanoylcarnitine	tissue
+C00555	4-aminobutanal	tissue
+Cx744	antitrypsin_	tissue
+C03272	globoside	tissue
+C01120	sphinganine-1-phosphate	tissue
+C06138	GT1a	tissue
+Cx1318	spermine dialdehyde	tissue
+Cx1319	spermine monoaldehyde	tissue
+C02470	xanthurenate	tissue
